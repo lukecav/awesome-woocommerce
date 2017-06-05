@@ -6,5 +6,5 @@ Plugins and code snippets for your WC store.
 
 ## Handy Code Snippets
 * [Convert Guest Orders to Logged In](https://gist.github.com/duplaja/17e9dcce40f35dc7eb31b4e290cee7ab) - Convert guest orders to logged in.
-* [Quantity Before Add to Cart and Product Update](https://gist.github.com/duplaja/17e9dcce40f35dc7eb31b4e290cee7ab) - Quantity Before Add to Cart and Product Update.
+* [Quantity Before Add to Cart and Product Update](https://gist.github.com/lukecav/b31f856daaa8c726ea24472b5792166b) - Quantity Before Add to Cart and Product Update.
 
