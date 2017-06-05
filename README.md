@@ -12,4 +12,5 @@ Plugins and code snippets for your WC store.
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
 * [Search by Algolia](https://wordpress.org/plugins/search-by-algolia-instant-relevant-results/) - Search by Algolia is the smartest way to improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
+* [SearchWP](https://searchwp.com/) - Instantly improve your site search without writing a line of code
 
