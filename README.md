@@ -4,6 +4,7 @@ Plugins and code snippets for your WC store.
 ## Table Of Contents
 * [Handy Code Snippets](#handy-code-snippets)
 * [Search Plugins](#search-plugins)
+* [Search Helper Plugins](#search-helper-plugins)
 
 ## Handy Code Snippets
 * [Convert Guest Orders to Logged In](https://gist.github.com/duplaja/17e9dcce40f35dc7eb31b4e290cee7ab) - Convert guest orders to logged in.
@@ -17,4 +18,7 @@ Plugins and code snippets for your WC store.
 * [SearchWP](https://searchwp.com/) - Instantly improve your site search without writing a line of code.
 * [FacetWP](https://facetwp.com/) - Advanced Filtering for WordPress.
 * [Relevanssi](https://wordpress.org/plugins/relevanssi/) - This plugin replaces WordPress search with a relevance-sorting search.
+
+## Search Helper Plugins
+* [FacetWP - Bookings Integration](https://github.com/FacetWP/facetwp-bookings) - WooCommerce Bookings support.
 
