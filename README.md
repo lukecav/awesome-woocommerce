@@ -7,7 +7,7 @@ Plugins and code snippets for your WC store.
 * [Search Helper Plugins](#search-helper-plugins)
 
 ## Handy Code Snippets
-* [Convert Guest Orders to Logged In](https://gist.github.com/duplaja/17e9dcce40f35dc7eb31b4e290cee7ab) - Convert guest orders to logged in.
+* [WC Map Guest Orders and Downloads](https://wordpress.org/plugins/wc-map-guest-orders-and-downloads/) - Maps WooCommerce guest orders and downloads to an account with the same e-mail on account creation or login.
 * [Quantity Before Add to Cart and Product Update](https://gist.github.com/lukecav/b31f856daaa8c726ea24472b5792166b) - Quantity Before Add to Cart and Product Update.
 * [How to Find Product by SKU in WooCommerce](https://www.skyverge.com/blog/find-product-sku-woocommerce/) - How to Find Product by SKU in WooCommerce.
 * [Indexing and Searching WooCommerce Product Variation SKUs](https://searchwp.com/docs/kb/woocommerce-product-variation-skus/) - Indexing and Searching WooCommerce Product Variation SKUs.
