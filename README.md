@@ -12,6 +12,7 @@ Plugins and code snippets for your WC store.
 * [How to Find Product by SKU in WooCommerce](https://www.skyverge.com/blog/find-product-sku-woocommerce/) - How to Find Product by SKU in WooCommerce.
 * [Indexing and Searching WooCommerce Product Variation SKUs](https://searchwp.com/docs/kb/woocommerce-product-variation-skus/) - Indexing and Searching WooCommerce Product Variation SKUs.
 * [WooCommerce Custom Product Redirects](https://github.com/zao-web/WooCommerce-Custom-Product-Redirects) - Configure checkout redirects for your products. Can be configured globally and individually per product with a priority.
+* [WooCommerce Customizer](https://wordpress.org/plugins/woocommerce-customizer/) - Customize WooCommerce without code! Easily change add to cart button text and more.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
