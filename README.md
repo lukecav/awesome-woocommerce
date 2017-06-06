@@ -2,15 +2,16 @@
 Plugins and code snippets for your WC store.
 
 ## Table Of Contents
-* [Handy Code Snippets](#handy-code-snippets)
+* [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
 * [Search Plugins](#search-plugins)
 * [Search Helper Plugins](#search-helper-plugins)
 
-## Handy Code Snippets
+## Handy Code Snippets and Plugins
 * [WC Map Guest Orders and Downloads](https://wordpress.org/plugins/wc-map-guest-orders-and-downloads/) - Maps WooCommerce guest orders and downloads to an account with the same e-mail on account creation or login.
 * [Quantity Before Add to Cart and Product Update](https://gist.github.com/lukecav/b31f856daaa8c726ea24472b5792166b) - Quantity Before Add to Cart and Product Update.
 * [How to Find Product by SKU in WooCommerce](https://www.skyverge.com/blog/find-product-sku-woocommerce/) - How to Find Product by SKU in WooCommerce.
 * [Indexing and Searching WooCommerce Product Variation SKUs](https://searchwp.com/docs/kb/woocommerce-product-variation-skus/) - Indexing and Searching WooCommerce Product Variation SKUs.
+* [WooCommerce Custom Product Redirects](https://github.com/zao-web/WooCommerce-Custom-Product-Redirects) - Configure checkout redirects for your products. Can be configured globally and individually per product with a priority.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
