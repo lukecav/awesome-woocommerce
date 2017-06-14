@@ -13,6 +13,7 @@ Plugins and code snippets for your WC store.
 * [Indexing and Searching WooCommerce Product Variation SKUs](https://searchwp.com/docs/kb/woocommerce-product-variation-skus/) - Indexing and Searching WooCommerce Product Variation SKUs.
 * [WooCommerce Custom Product Redirects](https://github.com/zao-web/WooCommerce-Custom-Product-Redirects) - Configure checkout redirects for your products. Can be configured globally and individually per product with a priority.
 * [WooCommerce Customizer](https://wordpress.org/plugins/woocommerce-customizer/) - Customize WooCommerce without code! Easily change add to cart button text and more.
+* [WooCommerce Confirm Password](https://gist.github.com/neilgee/a352bd18a914f6abb450b6c70fd1641d#file-password-validation-php) - Check the password and confirm password fields match before allow checkout to proceed.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
