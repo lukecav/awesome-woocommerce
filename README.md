@@ -16,6 +16,7 @@ Plugins and code snippets for your WC store.
 * [WooCommerce Confirm Password](https://gist.github.com/neilgee/a352bd18a914f6abb450b6c70fd1641d#file-password-validation-php) - Check the password and confirm password fields match before allow checkout to proceed.
 * [Remove the password strength meter on the checkout page](https://gist.github.com/SiR-DanieL/c9714add5b279550cef05957bc4481a1#file-functions-php) - You can completely remove the strength meter and restore the checkout process as it was before.
 * [Disable Cart Fragments](https://wordpress.org/plugins/disable-cart-fragments-littlebizzy/) - Completely disables the AJAX cart fragments feature in WooCommerce for a huge boost in loading speed (redirect to cart page highly recommended).
+* [WooCommerce International SKU](https://github.com/pmgarman/wc-international-sku) - Add a secondary SKU to products that is used for orders shipping outside of the base country of WooCommerce (international orders).
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
