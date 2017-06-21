@@ -18,6 +18,7 @@ Plugins and code snippets for your WC store.
 * [Disable Cart Fragments](https://wordpress.org/plugins/disable-cart-fragments-littlebizzy/) - Completely disables the AJAX cart fragments feature in WooCommerce for a huge boost in loading speed (redirect to cart page highly recommended).
 * [WooCommerce International SKU](https://github.com/pmgarman/wc-international-sku) - Add a secondary SKU to products that is used for orders shipping outside of the base country of WooCommerce (international orders).
 * [Woocommerce Global Cart](https://github.com/stephenafamo/woocommerce-global-cart) - This allows users to maintain a single shopping cart across all subsites in a multisite install.
+* [Custom code snippets and examples for SkyVerge-built WooCommerce extensions](https://github.com/skyverge/wc-plugins-snippets) - Welcome to the wc-plugins-snippets repository! This repository stores code snippets related to SkyVerge WooCommerce plugins to modify or add onto plugin behavior.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
