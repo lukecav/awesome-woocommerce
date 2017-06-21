@@ -17,6 +17,7 @@ Plugins and code snippets for your WC store.
 * [Remove the password strength meter on the checkout page](https://gist.github.com/SiR-DanieL/c9714add5b279550cef05957bc4481a1#file-functions-php) - You can completely remove the strength meter and restore the checkout process as it was before.
 * [Disable Cart Fragments](https://wordpress.org/plugins/disable-cart-fragments-littlebizzy/) - Completely disables the AJAX cart fragments feature in WooCommerce for a huge boost in loading speed (redirect to cart page highly recommended).
 * [WooCommerce International SKU](https://github.com/pmgarman/wc-international-sku) - Add a secondary SKU to products that is used for orders shipping outside of the base country of WooCommerce (international orders).
+* [Woocommerce Global Cart](https://github.com/stephenafamo/woocommerce-global-cart) - This allows users to maintain a single shopping cart across all subsites in a multisite install.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
