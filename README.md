@@ -23,6 +23,7 @@ Plugins and code snippets for your WC store.
 * [Woocommerce disable email notifications](https://wordpress.org/plugins/woo-disable-email-notifications/) - Woocommerce disable email notifications.
 * [WC Multiple Email Recipients](https://wordpress.org/plugins/wc-multiple-email-recipients/) - Allows for multiple recipients for WooCommerce Emails.
 * [Quick Tracking Conversion Codes for WooCommerce](https://wordpress.org/plugins/quick-tracking-conversions-for-woocommerce/) - Create any tracking code you'd like and attach to links.  When someone clicks the link to your site they will be tracked for purchase.
+* [WPE Ecommerce Toolkit for WooCommerce](https://wordpress.org/plugins/quick-tracking-conversions-for-woocommerce/) - A toolbox of performance tweaks and reporting extensions for WooCommerce.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
