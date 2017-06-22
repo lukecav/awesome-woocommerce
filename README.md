@@ -21,6 +21,7 @@ Plugins and code snippets for your WC store.
 * [Custom code snippets and examples for SkyVerge-built WooCommerce extensions](https://github.com/skyverge/wc-plugins-snippets) - Welcome to the wc-plugins-snippets repository! This repository stores code snippets related to SkyVerge WooCommerce plugins to modify or add onto plugin behavior.
 * [WooCommerce Subscriptions Importer and Exporter](https://github.com/Prospress/woocommerce-subscriptions-importer-exporter) - Import or export subscriptions in your WooCommerce store via CSV.
 * [Woocommerce disable email notifications](https://wordpress.org/plugins/woo-disable-email-notifications/) - Woocommerce disable email notifications.
+* [WC Multiple Email Recipients](https://wordpress.org/plugins/wc-multiple-email-recipients/) - Allows for multiple recipients for WooCommerce Emails.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
