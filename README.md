@@ -20,6 +20,7 @@ Plugins and code snippets for your WC store.
 * [Woocommerce Global Cart](https://github.com/stephenafamo/woocommerce-global-cart) - This allows users to maintain a single shopping cart across all subsites in a multisite install.
 * [Custom code snippets and examples for SkyVerge-built WooCommerce extensions](https://github.com/skyverge/wc-plugins-snippets) - Welcome to the wc-plugins-snippets repository! This repository stores code snippets related to SkyVerge WooCommerce plugins to modify or add onto plugin behavior.
 * [WooCommerce Subscriptions Importer and Exporter](https://github.com/Prospress/woocommerce-subscriptions-importer-exporter) - Import or export subscriptions in your WooCommerce store via CSV.
+* [Woocommerce disable email notifications](https://wordpress.org/plugins/woo-disable-email-notifications/) - Woocommerce disable email notifications.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
