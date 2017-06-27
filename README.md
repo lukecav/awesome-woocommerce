@@ -26,6 +26,7 @@ Plugins and code snippets for your WC store.
 * [WPE Ecommerce Toolkit for WooCommerce](https://github.com/NickBWagner/wpe-wc-toolbox) - A toolbox of performance tweaks and reporting extensions for WooCommerce.
 * [WooCommerce Continue Shopping](https://wordpress.org/plugins/continue-shopping-for-woocommerce/) - Provides the ability to choose where the 'Continue Shopping' button on the WooCommerce Checkout takes you.
 * [Empty Cart Button for WooCommerce](https://wordpress.org/plugins/woo-empty-cart-button/) - This plugin is for use to empty whole cart using single click from cart.
+* [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients/) - Delete old, expired transients from WordPress wp_options table.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
