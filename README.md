@@ -25,6 +25,7 @@ Plugins and code snippets for your WC store.
 * [Quick Tracking Conversion Codes for WooCommerce](https://wordpress.org/plugins/quick-tracking-conversions-for-woocommerce/) - Create any tracking code you'd like and attach to links.  When someone clicks the link to your site they will be tracked for purchase.
 * [WPE Ecommerce Toolkit for WooCommerce](https://github.com/NickBWagner/wpe-wc-toolbox) - A toolbox of performance tweaks and reporting extensions for WooCommerce.
 * [WooCommerce Continue Shopping](https://wordpress.org/plugins/continue-shopping-for-woocommerce/) - Provides the ability to choose where the 'Continue Shopping' button on the WooCommerce Checkout takes you.
+* [Empty Cart Button for WooCommerce](https://wordpress.org/plugins/woo-empty-cart-button/) - This plugin is for use to empty whole cart using single click from cart.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
