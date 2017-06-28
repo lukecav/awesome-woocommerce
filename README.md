@@ -29,6 +29,7 @@ Plugins and code snippets for your WC store.
 * [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients/) - Delete old, expired transients from WordPress wp_options table.
 * [Display Order Details](https://wordpress.org/plugins/display-order-details/) - This plugin displays the list of items in an order in the WooCommerce->Orders page.
 * [WooCommerce External Product Embed](https://github.com/WPprodigy/woocommerce-external-product-embed) - Provides a shortcode to embed products from another store.
+* [WooCommerce Product Fees](https://wordpress.org/plugins/woocommerce-product-fees/) - Add additional fees at checkout based on products that are in the cart.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
