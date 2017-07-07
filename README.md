@@ -31,6 +31,7 @@ Plugins and code snippets for your WC store.
 * [WooCommerce External Product Embed](https://github.com/WPprodigy/woocommerce-external-product-embed) - Provides a shortcode to embed products from another store.
 * [WooCommerce Product Fees](https://wordpress.org/plugins/woocommerce-product-fees/) - Add additional fees at checkout based on products that are in the cart.
 * [Bulk Delete](https://wordpress.org/plugins/bulk-delete/) - Bulk delete users and posts from selected categories, tags, post types, custom taxonomies or by post status like drafts, scheduled posts, revisions etc.
+* [NC Size Chart for Woocommerce](https://wordpress.org/plugins/productsize-chart-for-woocommerce/) - This plugin allow you to use size charts to products on woocommerce.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
