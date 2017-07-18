@@ -33,6 +33,9 @@ Plugins and code snippets for your WC store.
 * [Bulk Delete](https://wordpress.org/plugins/bulk-delete/) - Bulk delete users and posts from selected categories, tags, post types, custom taxonomies or by post status like drafts, scheduled posts, revisions etc.
 * [NC Size Chart for Woocommerce](https://wordpress.org/plugins/productsize-chart-for-woocommerce/) - This plugin allow you to use size charts to products on woocommerce.
 * [WC Hide Shipping Methods](https://wordpress.org/plugins/wc-hide-shipping-methods/) - This plugin automatically hides all other shipping methods when "Free shipping" is available during checkout. It also includes an option to keep "local pickup".
+* [WC Restore the Purchased Items Column in Orders Page](https://wordpress.org/plugins/restore-purchased-items-column/) - This plugin restores the "Purchased Items" column in the orders page.
+* [WC Password Strength Settings](https://wordpress.org/plugins/wc-password-strength-settings/) - Allows administrators to set the required password strength or disable it entirely from the WooCommerce Accounts menu.
+* [WC Quick Customer Redirects](https://wordpress.org/plugins/wc-quick-customer-redirects/) - This plugin lets you set custom page redirects for customers after registration, login, logout actions.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
