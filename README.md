@@ -36,6 +36,7 @@ Plugins and code snippets for your WC store.
 * [WC Restore the Purchased Items Column in Orders Page](https://wordpress.org/plugins/restore-purchased-items-column/) - This plugin restores the "Purchased Items" column in the orders page.
 * [WC Password Strength Settings](https://wordpress.org/plugins/wc-password-strength-settings/) - Allows administrators to set the required password strength or disable it entirely from the WooCommerce Accounts menu.
 * [WC Quick Customer Redirects](https://wordpress.org/plugins/wc-quick-customer-redirects/) - This plugin lets you set custom page redirects for customers after registration, login, logout actions.
+* [Order / Coupon / Subscription Export Import Plugin for WooCommerce (BASIC)](https://wordpress.org/plugins/order-import-export-for-woocommerce/) - Export and Import Order detail including line items, From and To your WooCommerce Store.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
