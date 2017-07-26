@@ -37,6 +37,7 @@ Plugins and code snippets for your WC store.
 * [WC Password Strength Settings](https://wordpress.org/plugins/wc-password-strength-settings/) - Allows administrators to set the required password strength or disable it entirely from the WooCommerce Accounts menu.
 * [WC Quick Customer Redirects](https://wordpress.org/plugins/wc-quick-customer-redirects/) - This plugin lets you set custom page redirects for customers after registration, login, logout actions.
 * [Order / Coupon / Subscription Export Import Plugin for WooCommerce (BASIC)](https://wordpress.org/plugins/order-import-export-for-woocommerce/) - Export and Import Order detail including line items, From and To your WooCommerce Store.
+* [Woo Product Recommendation Wizard)](https://wordpress.org/plugins/woo-product-recommendation-wizard/) - Woo Product Recommendation Wizard let customers narrow down the product list on the basis of their choices. It enables the store owners to add a questionnaire to the product page. The product recommendations are then rendered according to the answers, given by the users. You can showcase â€˜nâ€™ number of products, matching the answers and query.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
