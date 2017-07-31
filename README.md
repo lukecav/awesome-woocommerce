@@ -38,9 +38,9 @@ Plugins and code snippets for your WC store.
 * [WC Quick Customer Redirects](https://wordpress.org/plugins/wc-quick-customer-redirects/) - This plugin lets you set custom page redirects for customers after registration, login, logout actions.
 * [Order / Coupon / Subscription Export Import Plugin for WooCommerce (BASIC)](https://wordpress.org/plugins/order-import-export-for-woocommerce/) - Export and Import Order detail including line items, From and To your WooCommerce Store.
 * [Woo Product Recommendation Wizard)](https://wordpress.org/plugins/woo-product-recommendation-wizard/) - Woo Product Recommendation Wizard let customers narrow down the product list on the basis of their choices. It enables the store owners to add a questionnaire to the product page. The product recommendations are then rendered according to the answers, given by the users. You can showcase â€˜nâ€™ number of products, matching the answers and query.
-* [Disable WooCommmerce Status)](https://wordpress.org/plugins/disable-wc-status-littlebizzy/) - Completely disables the WooCommerce Status widget in the WP Admin dashboard to greatly improve backend performance on high traffic WooCommerce shops.
-* [WooCommerce Custom Availability)](https://github.com/anttiviljami/woocommerce-custom-availability) - Custom availability strings for products.
-* [WooCommerce Facebook Conversion Pixel)](https://github.com/anttiviljami/woocommerce-facebook-conversion-pixel) - Set up the Facebook conversion pixel and event tracking for WooCommerce.
+* [Disable WooCommmerce Status](https://wordpress.org/plugins/disable-wc-status-littlebizzy/) - Completely disables the WooCommerce Status widget in the WP Admin dashboard to greatly improve backend performance on high traffic WooCommerce shops.
+* [WooCommerce Custom Availability](https://github.com/anttiviljami/woocommerce-custom-availability) - Custom availability strings for products.
+* [WooCommerce Facebook Conversion Pixel](https://github.com/anttiviljami/woocommerce-facebook-conversion-pixel) - Set up the Facebook conversion pixel and event tracking for WooCommerce.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
