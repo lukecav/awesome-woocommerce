@@ -42,6 +42,7 @@ Plugins and code snippets for your WC store.
 * [WooCommerce Custom Availability](https://github.com/anttiviljami/woocommerce-custom-availability) - Custom availability strings for products.
 * [WooCommerce Facebook Conversion Pixel](https://github.com/anttiviljami/woocommerce-facebook-conversion-pixel) - Set up the Facebook conversion pixel and event tracking for WooCommerce.
 * [How to Create WooCommerce Refunds Programmatically](https://gist.github.com/igorbenic/63438fb45fd42417ff9a02ea45177097) - WooCommerce refunds can be created using their own API function wc_create_refund.
+* [Jilt for WooCommerce](https://wordpress.org/plugins/jilt-for-woocommerce/) - Start recovering lost revenue from abandoned carts in minutes.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
