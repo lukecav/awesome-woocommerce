@@ -44,6 +44,7 @@ Plugins and code snippets for your WC store.
 * [How to Create WooCommerce Refunds Programmatically](https://gist.github.com/igorbenic/63438fb45fd42417ff9a02ea45177097) - WooCommerce refunds can be created using their own API function wc_create_refund.
 * [Jilt for WooCommerce](https://wordpress.org/plugins/jilt-for-woocommerce/) - Start recovering lost revenue from abandoned carts in minutes.
 * [Metorik Helper](https://wordpress.org/plugins/metorik-helper/) - Provides some fixes & extensions for WooCommerce, required by Metorik.
+* [WooCommerce Calculate Shipping In Product Page](https://wordpress.org/plugins/woo-calculate-shipping-in-product-page/) - Calculate shipping before adding the product to the cart with avaialable shipping methods.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
