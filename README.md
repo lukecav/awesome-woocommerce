@@ -45,6 +45,7 @@ Plugins and code snippets for your WC store.
 * [Jilt for WooCommerce](https://wordpress.org/plugins/jilt-for-woocommerce/) - Start recovering lost revenue from abandoned carts in minutes.
 * [Metorik Helper](https://wordpress.org/plugins/metorik-helper/) - Provides some fixes & extensions for WooCommerce, required by Metorik.
 * [WooCommerce Calculate Shipping In Product Page](https://wordpress.org/plugins/woo-calculate-shipping-in-product-page/) - Calculate shipping before adding the product to the cart with avaialable shipping methods.
+* [WooCommerce Product Bundles - Min/Max Items](https://github.com/somewherewarm/woocommerce-product-bundles-min-max-items) - WooCommerce Product Bundles plugin that allows you to define min/max bundled item count constraints.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
