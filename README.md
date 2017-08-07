@@ -47,6 +47,7 @@ Plugins and code snippets for your WC store.
 * [WooCommerce Calculate Shipping In Product Page](https://wordpress.org/plugins/woo-calculate-shipping-in-product-page/) - Calculate shipping before adding the product to the cart with avaialable shipping methods.
 * [WooCommerce Product Bundles - Min/Max Items](https://github.com/somewherewarm/woocommerce-product-bundles-min-max-items) - WooCommerce Product Bundles plugin that allows you to define min/max bundled item count constraints.
 * [PW WooCommerce Bulk Edit](https://wordpress.org/plugins/pw-bulk-edit/) - PW WooCommerce Bulk Edit is a powerful way to update your WooCommerce product catalog. Finally, no more tedious clicking through countless pages making the same change to all products.
+* [WooCommerce variations Select2](https://wordpress.org/plugins/woo-variations-select2/) - A simple plugin that enables Select2 for WooCommerce variations select boxes.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
