@@ -49,6 +49,7 @@ Plugins and code snippets for your WC store.
 * [PW WooCommerce Bulk Edit](https://wordpress.org/plugins/pw-bulk-edit/) - PW WooCommerce Bulk Edit is a powerful way to update your WooCommerce product catalog. Finally, no more tedious clicking through countless pages making the same change to all products.
 * [WooCommerce variations Select2](https://wordpress.org/plugins/woo-variations-select2/) - A simple plugin that enables Select2 for WooCommerce variations select boxes.
 * [WooCommerce Order Cancel for Customers](https://wordpress.org/plugins/woo-order-cancel-for-customers/) - A tiny plugin that will enable customers to cancel woocommerce order within a certain amount of time.
+* [WC Search Orders By Product](https://wordpress.org/plugins/wc-search-orders-by-product/) - A simple plugin that helps you search your WooCommerce orders by product.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
