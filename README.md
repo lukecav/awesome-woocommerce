@@ -5,6 +5,7 @@ Plugins and code snippets for your WC store.
 * [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
 * [Search Plugins](#search-plugins)
 * [Search Helper Plugins](#search-helper-plugins)
+* [Google Analytics](#google-analytics)
 
 ## Handy Code Snippets and Plugins
 * [WC Map Guest Orders and Downloads](https://wordpress.org/plugins/wc-map-guest-orders-and-downloads/) - Maps WooCommerce guest orders and downloads to an account with the same e-mail on account creation or login.
@@ -62,4 +63,7 @@ Plugins and code snippets for your WC store.
 
 ## Search Helper Plugins
 * [FacetWP - Bookings Integration](https://github.com/FacetWP/facetwp-bookings) - WooCommerce Bookings support.
+
+## Google Analytics
+* [How To Track Shopping Cart Abandonment in Google Analytics](http://blog.lemonstand.com/cart-abandonment-google-analytics/) - We have all heard the statistics; about 70% of your customers are abandoning your shopping cart without actually making a purchase.
 
