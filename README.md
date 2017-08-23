@@ -53,6 +53,7 @@ Plugins and code snippets for your WC store.
 * [WC Search Orders By Product](https://wordpress.org/plugins/wc-search-orders-by-product/) - A simple plugin that helps you search your WooCommerce orders by product.
 * [WooCommerce Order Search Admin powered by Algolia](https://wordpress.org/plugins/wc-order-search-admin/) - Search for WooCommerce orders in the admin at the speed of thought with Algolia.
 * [Motif Woocommerce Qty Field Shop Page](https://wordpress.org/plugins/motif-woocommerce-qty-field-shop-page/) - To allow woocommerce customer to buy their products from shop page with their desire quantity.
+* [Facebook for WooCommerce](https://github.com/facebookincubator/facebook-for-woocommerce) - Grow your business with Facebook for WooCommerce! This plugin will install a Facebook Pixel and optionally create a shop on your Facebook page.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
