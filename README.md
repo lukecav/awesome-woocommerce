@@ -51,9 +51,10 @@ Plugins and code snippets for your WC store.
 * [WooCommerce variations Select2](https://wordpress.org/plugins/woo-variations-select2/) - A simple plugin that enables Select2 for WooCommerce variations select boxes.
 * [WooCommerce Order Cancel for Customers](https://wordpress.org/plugins/woo-order-cancel-for-customers/) - A tiny plugin that will enable customers to cancel woocommerce order within a certain amount of time.
 * [WC Search Orders By Product](https://wordpress.org/plugins/wc-search-orders-by-product/) - A simple plugin that helps you search your WooCommerce orders by product.
-* [WooCommerce Order Search Admin powered by Algolia](https://wordpress.org/plugins/wc-order-search-admin/) - Search for WooCommerce orders in the admin at the speed of thought with Algolia.
+* [WooCommerce Order Search Admin powered by Algolia](https://wordpress.org/plugins/wc-order-search-admin/) - Search for WooCommerce orders in the admin at the speed of thought with Algolia..
 * [Motif Woocommerce Qty Field Shop Page](https://wordpress.org/plugins/motif-woocommerce-qty-field-shop-page/) - To allow woocommerce customer to buy their products from shop page with their desire quantity.
 * [Facebook for WooCommerce](https://github.com/facebookincubator/facebook-for-woocommerce) - Grow your business with Facebook for WooCommerce! This plugin will install a Facebook Pixel and optionally create a shop on your Facebook page.
+* [WooCommerce SEO Addon](https://wordpress.org/plugins/woo-seo-addon/) - Plugin expands the capabilities Yoast Seo.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
