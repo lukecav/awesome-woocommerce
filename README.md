@@ -56,6 +56,7 @@ Plugins and code snippets for your WC store.
 * [Facebook for WooCommerce](https://github.com/facebookincubator/facebook-for-woocommerce) - Grow your business with Facebook for WooCommerce! This plugin will install a Facebook Pixel and optionally create a shop on your Facebook page.
 * [WooCommerce SEO Addon](https://wordpress.org/plugins/woo-seo-addon/) - Plugin expands the capabilities Yoast Seo.
 * [WooCommerce Permalink Manager](https://wordpress.org/plugins/woo-permalink-manager/) - Premmerce WooCommerce Permalink Manager allows you to change WooCommerce permalink and remove product and product_category slugs from the URL.
+* [Custom Related Products for WooCommerce](https://wordpress.org/plugins/custom-related-products-for-woocommerce/) - Select your own related products instead of pulling them in by category.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
