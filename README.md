@@ -1,5 +1,5 @@
 # awesome-woocommerce
-Plugins and code snippets for your WC store.
+Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Table Of Contents
 * [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
