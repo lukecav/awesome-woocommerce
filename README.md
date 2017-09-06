@@ -58,6 +58,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Permalink Manager](https://wordpress.org/plugins/woo-permalink-manager/) - Premmerce WooCommerce Permalink Manager allows you to change WooCommerce permalink and remove product and product_category slugs from the URL.
 * [Custom Related Products for WooCommerce](https://wordpress.org/plugins/custom-related-products-for-woocommerce/) - Select your own related products instead of pulling them in by category.
 * [Multilingual Comments](https://github.com/Yame-/multilingual-comments) - Shows Multilingual Comments & Reviews.
+* [Quotes for WooCommerce](https://wordpress.org/plugins/quotes-for-woocommerce/) - This plugin allows you to convert your WooCommerce store into a quote only store. It will hide the prices for the products and not take any payment at Checkout. You can then setup prices for the items in the order and send a notification to the Customer.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
