@@ -57,6 +57,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce SEO Addon](https://wordpress.org/plugins/woo-seo-addon/) - Plugin expands the capabilities Yoast Seo.
 * [WooCommerce Permalink Manager](https://wordpress.org/plugins/woo-permalink-manager/) - Premmerce WooCommerce Permalink Manager allows you to change WooCommerce permalink and remove product and product_category slugs from the URL.
 * [Custom Related Products for WooCommerce](https://wordpress.org/plugins/custom-related-products-for-woocommerce/) - Select your own related products instead of pulling them in by category.
+* [Multilingual Comments](https://github.com/Yame-/multilingual-comments) - Shows Multilingual Comments & Reviews.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
