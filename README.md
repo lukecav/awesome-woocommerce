@@ -3,6 +3,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Table Of Contents
 * [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
+* [Gist links for WooCommerce](#gist-links-for-woocommerce)
 * [Search Plugins](#search-plugins)
 * [Search Helper Plugins](#search-helper-plugins)
 * [Google Analytics](#google-analytics)
@@ -59,6 +60,16 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Custom Related Products for WooCommerce](https://wordpress.org/plugins/custom-related-products-for-woocommerce/) - Select your own related products instead of pulling them in by category.
 * [Multilingual Comments](https://github.com/Yame-/multilingual-comments) - Shows Multilingual Comments & Reviews.
 * [Quotes for WooCommerce](https://wordpress.org/plugins/quotes-for-woocommerce/) - This plugin allows you to convert your WooCommerce store into a quote only store. It will hide the prices for the products and not take any payment at Checkout. You can then setup prices for the items in the order and send a notification to the Customer.
+
+## Gist links for WooCommerce
+* [Mike Jolley](https://gist.github.com/mikejolley)
+* [Claudio Sanches](https://gist.github.com/claudiosanches)
+* [Rynaldo](https://gist.github.com/rynaldos)
+* [James Koster](https://gist.github.com/jameskoster)
+* [Lucas Stark](https://gist.github.com/lucasstark)
+* [Nicola Mustone](https://gist.github.com/SiR-DanieL)
+* [Caleb Burks](https://gist.github.com/WPprodigy)
+* [Vishal Kothari](https://gist.github.com/vishalck)
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
