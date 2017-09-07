@@ -69,6 +69,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Lucas Stark](https://gist.github.com/lucasstark)
 * [Nicola Mustone](https://gist.github.com/SiR-DanieL)
 * [Caleb Burks](https://gist.github.com/WPprodigy)
+* [Stuart Duff](https://gist.github.com/stuartduff)
 * [Vishal Kothari](https://gist.github.com/vishalck)
 
 ## Search Plugins
