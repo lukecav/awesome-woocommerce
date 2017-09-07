@@ -61,6 +61,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Multilingual Comments](https://github.com/Yame-/multilingual-comments) - Shows Multilingual Comments & Reviews.
 * [Quotes for WooCommerce](https://wordpress.org/plugins/quotes-for-woocommerce/) - This plugin allows you to convert your WooCommerce store into a quote only store. It will hide the prices for the products and not take any payment at Checkout. You can then setup prices for the items in the order and send a notification to the Customer.
 * [WooCommerce Digital Checkout](https://github.com/kenanfallon/woocommerce-digital-checkout) - Hide Billing and Shipping Checkout Fields For Virtual/Download Products.
+* [WooCommerce Checkout For Digital Goods](https://wordpress.org/plugins/woo-checkout-for-digital-goods/) - This plugin will remove billing address fields for downloadable and virtual products.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
