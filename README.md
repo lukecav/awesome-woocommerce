@@ -76,6 +76,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Vishal Kothari](https://gist.github.com/vishalck)
 * [Patrick Rauland](https://gist.github.com/BFTrick)
 * [Beka Rice](https://gist.github.com/bekarice)
+* [Daniel Espinoza](https://gist.github.com/growdev)
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
