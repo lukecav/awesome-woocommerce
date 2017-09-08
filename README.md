@@ -63,6 +63,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Digital Checkout](https://github.com/kenanfallon/woocommerce-digital-checkout) - Hide Billing and Shipping Checkout Fields For Virtual/Download Products.
 * [WooCommerce Checkout For Digital Goods](https://wordpress.org/plugins/woo-checkout-for-digital-goods/) - This plugin will remove billing address fields for downloadable and virtual products.
 * [Flexible Checkout Fields for WooCommerce](https://wordpress.org/plugins/flexible-checkout-fields/) - Manage your WooCommerce checkout fields. Change order, labels, placeholders and add new fields.
+* [WooCommerce Product Variations Popup](https://wordpress.org/plugins/woo-product-variations-popup/) - This plugin provides the functionality to select product options on the product listing page in a popup.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
