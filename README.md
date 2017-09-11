@@ -65,6 +65,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Flexible Checkout Fields for WooCommerce](https://wordpress.org/plugins/flexible-checkout-fields/) - Manage your WooCommerce checkout fields. Change order, labels, placeholders and add new fields.
 * [WooCommerce Product Variations Popup](https://wordpress.org/plugins/woo-product-variations-popup/) - This plugin provides the functionality to select product options on the product listing page in a popup.
 * [Conditional Shipping for WooCommerce](https://wordpress.org/plugins/conditional-shipping-for-woocommerce/) - Disable shipping methods based on shipping classes, weight, categories and much more.
+* [WP WooCommerce Redirect](https://wordpress.org/plugins/wp-woocommerce-redirect/) - WP WooCommerce Redirect is a WordPress plugin to redirect your WooCommerce website after register or login!  You can set any custom page or custom redirect according to user role.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
