@@ -66,6 +66,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Product Variations Popup](https://wordpress.org/plugins/woo-product-variations-popup/) - This plugin provides the functionality to select product options on the product listing page in a popup.
 * [Conditional Shipping for WooCommerce](https://wordpress.org/plugins/conditional-shipping-for-woocommerce/) - Disable shipping methods based on shipping classes, weight, categories and much more.
 * [WP WooCommerce Redirect](https://wordpress.org/plugins/wp-woocommerce-redirect/) - WP WooCommerce Redirect is a WordPress plugin to redirect your WooCommerce website after register or login!  You can set any custom page or custom redirect according to user role.
+* [WooCommerce Global Cart](https://wooglobalcart.com/) - WooCommerce Global Cart plugin facilitates a single shopping cart across all stores, a unique checkout process for products from different shops in a MultiSite environment.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
