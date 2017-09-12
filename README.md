@@ -69,6 +69,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Global Cart](https://wooglobalcart.com/) - WooCommerce Global Cart plugin facilitates a single shopping cart across all stores, a unique checkout process for products from different shops in a MultiSite environment.
 * [WooCommerce Software License](https://woosoftwarelicense.com/) - WooCommerce Software License provides the ability to manage license keys, activation and maintenance via your store.
 * [WooCommerce Extended Coupon Features](https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Additional functionality for WooCommerce Coupons: Apply certain coupons automatically, allow applying coupons via an url, etc.
+* [WooCommerce Putler Connector](https://wordpress.org/plugins/woocommerce-putler-connector/) - Track WooCommerce transactions data with Putler. Insightful reporting that grows your business.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
