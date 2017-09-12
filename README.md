@@ -68,6 +68,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WP WooCommerce Redirect](https://wordpress.org/plugins/wp-woocommerce-redirect/) - WP WooCommerce Redirect is a WordPress plugin to redirect your WooCommerce website after register or login!  You can set any custom page or custom redirect according to user role.
 * [WooCommerce Global Cart](https://wooglobalcart.com/) - WooCommerce Global Cart plugin facilitates a single shopping cart across all stores, a unique checkout process for products from different shops in a MultiSite environment.
 * [WooCommerce Software License](https://woosoftwarelicense.com/) - WooCommerce Software License provides the ability to manage license keys, activation and maintenance via your store.
+* [WooCommerce Extended Coupon Features](https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Additional functionality for WooCommerce Coupons: Apply certain coupons automatically, allow applying coupons via an url, etc.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
