@@ -71,6 +71,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Extended Coupon Features](https://wordpress.org/plugins/woocommerce-auto-added-coupons/) - Additional functionality for WooCommerce Coupons: Apply certain coupons automatically, allow applying coupons via an url, etc.
 * [WooCommerce Putler Connector](https://wordpress.org/plugins/woocommerce-putler-connector/) - Track WooCommerce transactions data with Putler. Insightful reporting that grows your business.
 * [Purchased Items Column for WooCommerce Orders](https://wordpress.org/plugins/purchased-items-column-woocommerce/) - Display a "Purchased Items" column on the WooCommerce orders page.
+* [Disable WooCommerce Reviews](https://wordpress.org/plugins/disable-woocommerce-reviews/) - Disable WooCommerce reviews on all products.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
