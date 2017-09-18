@@ -78,6 +78,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Bookings Dropdown](https://wordpress.org/plugins/woo-bookings-dropdown/) - Swaps the date picker for a dropdown of dates.
 * [WooCommerce – Mailerlite](https://wordpress.org/plugins/woo-mailerlite/) - Mailerlite integration for WooCommerce.
 * [Nav Menu Roles + WooCommerce Memberships Bridge](https://github.com/helgatheviking/nav-menu-roles-woocommerce-memberships) - Add WooCommerce Membership Plans to Nav Menu Roles.
+* [WooCommerce Frontend Manager](https://wordpress.org/plugins/wc-frontend-manager/) - WooCommerce is really Easy and Beautiful. We are here to make your life much more Easier and Peaceful.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
