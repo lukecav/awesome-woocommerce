@@ -76,6 +76,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Printify for WooCommerce](https://wordpress.org/plugins/printify-for-woocommerce/) - Live shipping rates for Printify products.
 * [WooCommerce Bookings add-on](https://github.com/baperrou/WooBookings-Recurring-Booking) - Woobooking Recurring Bookings by Week is an add-on for the paid plugin WooCommerce Bookings.  It allows you to tag products as a re-occurring course over a set number of weeks.
 * [WooCommerce Bookings Dropdown](https://wordpress.org/plugins/woo-bookings-dropdown/) - Swaps the date picker for a dropdown of dates.
+* [WooCommerce – Mailerlite](https://wordpress.org/plugins/woo-mailerlite/) - Mailerlite integration for WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
