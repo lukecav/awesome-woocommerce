@@ -74,6 +74,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Disable WooCommerce Reviews](https://wordpress.org/plugins/disable-woocommerce-reviews/) - Disable WooCommerce reviews on all products.
 * [WC Shipping Rates Importer](https://wordpress.org/plugins/wc-shipping-rates-importer/) - Export and import Woocommerce Shipping Rates.
 * [Printify for WooCommerce](https://wordpress.org/plugins/printify-for-woocommerce/) - Live shipping rates for Printify products.
+* [WooCommerce Bookings add-on](https://github.com/baperrou/WooBookings-Recurring-Booking) - Woobooking Recurring Bookings by Week is an add-on for the paid plugin WooCommerce Bookings.  It allows you to tag products as a re-occurring course over a set number of weeks.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
