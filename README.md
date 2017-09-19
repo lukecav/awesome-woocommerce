@@ -85,6 +85,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Refer A Friend for WooCommerce](https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/) - Simple yet powerful referral system for WooCommerce. Each customer has referral link that rewards them with a coupon after someone makes a purchase through their link.
 * [Colissimo Delivery Integration](https://wordpress.org/plugins/colissimo-delivery-integration/) - Easy Colissimo Services with WooCommerce.
 * [WooCommerce Pre-Orders Fix](https://github.com/amg262/woocommerce-pre-orders-fix) - Sell pre-orders for products in your WooCommerce store, multiple pre-order cart add-on.
+* [Coupon Generator for WooCommerce](https://wordpress.org/plugins/coupon-generator-for-woocommerce/) - Easily generate millions of unique coupons for your online store. Use all the coupon settings you are familiar with.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
