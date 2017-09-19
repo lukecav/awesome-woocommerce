@@ -79,6 +79,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce – Mailerlite](https://wordpress.org/plugins/woo-mailerlite/) - Mailerlite integration for WooCommerce.
 * [Nav Menu Roles + WooCommerce Memberships Bridge](https://github.com/helgatheviking/nav-menu-roles-woocommerce-memberships) - Add WooCommerce Membership Plans to Nav Menu Roles.
 * [WooCommerce Frontend Manager](https://wordpress.org/plugins/wc-frontend-manager/) - WooCommerce is really Easy and Beautiful. We are here to make your life much more Easier and Peaceful.
+* [Disable WooCommerce Styles](https://wordpress.org/plugins/disable-wc-styles-littlebizzy/) - Completely disables all of the CSS stylesheets that are loaded by WooCommerce in order that styling can be better managed by a single style.css file.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
