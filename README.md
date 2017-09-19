@@ -84,6 +84,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Advanced Free Shipping](https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - WooCommerce Advanced Free Shipping is an plugin which allows you to set up advanced free shipping conditions.
 * [Refer A Friend for WooCommerce](https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/) - Simple yet powerful referral system for WooCommerce. Each customer has referral link that rewards them with a coupon after someone makes a purchase through their link.
 * [Colissimo Delivery Integration](https://wordpress.org/plugins/colissimo-delivery-integration/) - Easy Colissimo Services with WooCommerce.
+* [WooCommerce Pre-Orders Fix](https://github.com/amg262/woocommerce-pre-orders-fix) - Sell pre-orders for products in your WooCommerce store, multiple pre-order cart add-on.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
