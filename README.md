@@ -81,6 +81,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Frontend Manager](https://wordpress.org/plugins/wc-frontend-manager/) - WooCommerce is really Easy and Beautiful. We are here to make your life much more Easier and Peaceful.
 * [Disable WooCommerce Styles](https://wordpress.org/plugins/disable-wc-styles-littlebizzy/) - Completely disables all of the CSS stylesheets that are loaded by WooCommerce in order that styling can be better managed by a single style.css file.
 * [Woo Update Variations In Cart](https://wordpress.org/plugins/woo-update-variations-in-cart/) - WooCommerce Update Variations In Cart.
+* [WooCommerce Advanced Free Shipping](https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - WooCommerce Advanced Free Shipping is an plugin which allows you to set up advanced free shipping conditions.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
