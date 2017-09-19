@@ -82,6 +82,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Disable WooCommerce Styles](https://wordpress.org/plugins/disable-wc-styles-littlebizzy/) - Completely disables all of the CSS stylesheets that are loaded by WooCommerce in order that styling can be better managed by a single style.css file.
 * [Woo Update Variations In Cart](https://wordpress.org/plugins/woo-update-variations-in-cart/) - WooCommerce Update Variations In Cart.
 * [WooCommerce Advanced Free Shipping](https://wordpress.org/plugins/woocommerce-advanced-free-shipping/) - WooCommerce Advanced Free Shipping is an plugin which allows you to set up advanced free shipping conditions.
+* [Refer A Friend for WooCommerce](https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/) - Simple yet powerful referral system for WooCommerce. Each customer has referral link that rewards them with a coupon after someone makes a purchase through their link.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
