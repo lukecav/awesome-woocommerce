@@ -90,6 +90,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WC Duplicate Order](https://wordpress.org/plugins/wc-duplicate-order/) - Adds a duplicate link to Woocommerce on the order actions to duplicate the existing order.
 * [WooCommerce Bookings Order Item Meta Addon](https://github.com/jessepearson/woocommerce-bookings-order-item-meta) - This addon is a WooCommerce Bookings helper which will make it so future booking orders have meta data saved within the order as they did with version 1.9.12 and below.
 * [WooCommerce Dynamic Pricing Table](https://github.com/stuartduff/woocommerce-dynamic-pricing-table) - Displays a pricing discount table on WooCommerce products, a user role discount message and a simple category discount message when using the WooCommerce Dynamic Pricing plugin.
+* [WooCommerce Discounts Per Payment Method](https://wordpress.org/plugins/woocommerce-payment-discounts/) - Adds discounts on specific payment methods in WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
