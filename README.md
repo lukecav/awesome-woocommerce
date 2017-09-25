@@ -94,6 +94,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Returnado](https://wordpress.org/plugins/woo-returnado/) - WC Rest API extension for Returnado system and widget interface providing order returning functionality. Includes bypassing loggin on purchasing for non-guest mode.
 * [Order Simulator for WooCommerce](https://github.com/75nineteen/order-simulator-woocommerce) - Automate orders to generate WooCommerce storefronts at scale for testing purposes.
 * [OnSale Page for WooCommerce](https://wordpress.org/plugins/on-sale-page-for-woocommerce/) - WooCommerce Onsale Page is an extension for Woocommerce. We developed this plugin because Woocommerce has onsale widget and shortcode but it lacks paging, sorting and filtering which you can usually find on regular Woocommerce catalog page.
+* [WooCommerce Pay for Payment](https://wordpress.org/plugins/woocommerce-pay-for-payment/) - Setup individual charges for each payment method in WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
