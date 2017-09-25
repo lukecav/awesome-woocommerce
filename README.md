@@ -92,6 +92,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Dynamic Pricing Table](https://github.com/stuartduff/woocommerce-dynamic-pricing-table) - Displays a pricing discount table on WooCommerce products, a user role discount message and a simple category discount message when using the WooCommerce Dynamic Pricing plugin.
 * [WooCommerce Discounts Per Payment Method](https://wordpress.org/plugins/woocommerce-payment-discounts/) - Adds discounts on specific payment methods in WooCommerce.
 * [WooCommerce Returnado](https://wordpress.org/plugins/woo-returnado/) - WC Rest API extension for Returnado system and widget interface providing order returning functionality. Includes bypassing loggin on purchasing for non-guest mode.
+* [Order Simulator for WooCommerce](https://github.com/75nineteen/order-simulator-woocommerce) - Automate orders to generate WooCommerce storefronts at scale for testing purposes.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
