@@ -97,6 +97,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Pay for Payment](https://wordpress.org/plugins/woocommerce-pay-for-payment/) - Setup individual charges for each payment method in WooCommerce.
 * [WooCommerce Customers Manager](https://wordpress.org/plugins/woo-customers-manager/) - This plugin extends the standard user list and the edit user page in WordPress and adds the customer data from WooCommerce.
 * [Client Admin Message After Purchase for WooCommerce](https://wordpress.org/plugins/admin-and-client-message-after-order-for-woocommerce/) - This plugin allow users chat with shop manager after checkout. Admin can also reply.
+* [WooCommerce Coupon Restrictions](https://github.com/devinsays/woocommerce-coupon-restrictions) - Allows coupons to be restricted to new customers or existing customers.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
