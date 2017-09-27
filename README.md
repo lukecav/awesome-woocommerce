@@ -99,6 +99,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Client Admin Message After Purchase for WooCommerce](https://wordpress.org/plugins/admin-and-client-message-after-order-for-woocommerce/) - This plugin allow users chat with shop manager after checkout. Admin can also reply.
 * [WooCommerce Coupon Restrictions](https://github.com/devinsays/woocommerce-coupon-restrictions) - Allows coupons to be restricted to new customers or existing customers.
 * [Pricing Deals for WooCommerce](https://wordpress.org/plugins/pricing-deals-for-woocommerce/) - An e-commerce add-on for WooCommerce, supplying Pricing Deals functionality.
+* [WooCommerce Checkout Age Verification](https://github.com/lukecav/woocommerce-checkout-age-verification) - This plugin is used to verify the age of customer at WooCommerce checkout.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
