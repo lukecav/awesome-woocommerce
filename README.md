@@ -102,6 +102,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Checkout Age Verification](https://github.com/lukecav/woocommerce-checkout-age-verification) - This plugin is used to verify the age of customer at WooCommerce checkout.
 * [Woo Flow: Cart Abadonment Analytics](https://wordpress.org/plugins/woo-flow/) - The plugin to track user behaviour in your WooCommerce site and show analytics reports in admin dashboard.
 * [Decorator – WooCommerce Email Customizer](https://wordpress.org/plugins/decorator-woocommerce-email-customizer/) - Use native WordPress Customizer to make WooCommerce emails match your brand.
+* [Additional Order Filters for WooCommerce](https://wordpress.org/plugins/additional-order-filters-for-woocommerce/) - Adds additional order filters for WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
