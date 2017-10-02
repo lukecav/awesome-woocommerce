@@ -103,6 +103,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Woo Flow: Cart Abadonment Analytics](https://wordpress.org/plugins/woo-flow/) - The plugin to track user behaviour in your WooCommerce site and show analytics reports in admin dashboard.
 * [Decorator – WooCommerce Email Customizer](https://wordpress.org/plugins/decorator-woocommerce-email-customizer/) - Use native WordPress Customizer to make WooCommerce emails match your brand.
 * [Additional Order Filters for WooCommerce](https://wordpress.org/plugins/additional-order-filters-for-woocommerce/) - Adds additional order filters for WooCommerce.
+* [Premmerce WooCommerce Toolkit](https://wordpress.org/plugins/premmerce-woocommerce-toolkit/) - Premmerce WooCommerce Toolkit is a versatile set of add-ons and extensions for WooCommerce, developed to add the missing essential tools for e-commerce business to the basic version of WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
