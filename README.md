@@ -108,6 +108,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Order Pending To Cancelled Email](https://wordpress.org/plugins/woo-order-pending-to-cancelled-email/) - Brings back the email when an order status changes from pending to cancelled.
 * [WooCommerce Auto Restore Stock](https://wordpress.org/plugins/woocommerce-auto-restore-stock/) - Auto restore stock when orders are cancelled.
 * [WooCommerce Price Based on Country](https://wordpress.org/plugins/woocommerce-product-price-based-on-countries/) - Product Pricing and Currency based on Shoppers Country for WooCommerce.
+* [WooCommerce Cart Stock Reducer](https://wordpress.org/plugins/woocommerce-cart-stock-reducer/) - Allow WooCommerce inventory stock to be reduced when adding items to cart and/or expire items from the cart.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
