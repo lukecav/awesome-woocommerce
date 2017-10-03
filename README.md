@@ -106,6 +106,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Premmerce WooCommerce Toolkit](https://wordpress.org/plugins/premmerce-woocommerce-toolkit/) - Premmerce WooCommerce Toolkit is a versatile set of add-ons and extensions for WooCommerce, developed to add the missing essential tools for e-commerce business to the basic version of WooCommerce.
 * [WooCommerce Ajax Cart Plugin](https://wordpress.org/plugins/woocommerce-ajax-cart/) - Change the default behavior of WooCommerce Cart page, making AJAX requests when quantity field changes.
 * [WooCommerce Order Pending To Cancelled Email](https://wordpress.org/plugins/woo-order-pending-to-cancelled-email/) - Brings back the email when an order status changes from pending to cancelled.
+* [WooCommerce Auto Restore Stock](https://wordpress.org/plugins/woocommerce-auto-restore-stock/) - Auto restore stock when orders are cancelled.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
