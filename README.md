@@ -107,6 +107,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Ajax Cart Plugin](https://wordpress.org/plugins/woocommerce-ajax-cart/) - Change the default behavior of WooCommerce Cart page, making AJAX requests when quantity field changes.
 * [WooCommerce Order Pending To Cancelled Email](https://wordpress.org/plugins/woo-order-pending-to-cancelled-email/) - Brings back the email when an order status changes from pending to cancelled.
 * [WooCommerce Auto Restore Stock](https://wordpress.org/plugins/woocommerce-auto-restore-stock/) - Auto restore stock when orders are cancelled.
+* [WooCommerce Price Based on Country](https://wordpress.org/plugins/woocommerce-product-price-based-on-countries/) - Product Pricing and Currency based on Shoppers Country for WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
