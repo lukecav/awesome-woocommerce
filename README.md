@@ -110,6 +110,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Price Based on Country](https://wordpress.org/plugins/woocommerce-product-price-based-on-countries/) - Product Pricing and Currency based on Shoppers Country for WooCommerce.
 * [WooCommerce Cart Stock Reducer](https://wordpress.org/plugins/woocommerce-cart-stock-reducer/) - Allow WooCommerce inventory stock to be reduced when adding items to cart and/or expire items from the cart.
 * [WooCommerce Login Popup and Shortcodes](https://wordpress.org/plugins/woocommerce-login-popup-and-shortcodes/) - Simple Modal Login Page & Shortcode for WooCommerce.
+* [Checkout Address Autocomplete for WooCommerce](https://wordpress.org/plugins/checkout-address-autocomplete-for-woocommerce/) - Allows your customers to autocomplete billing and shipping addresses on the checkout page using the Google Maps API.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
