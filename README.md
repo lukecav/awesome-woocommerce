@@ -127,6 +127,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Remi Corson](https://gist.github.com/corsonr)'
 * [Jesse Pearson](https://gist.github.com/jessepearson)
 * [Danny Santoro](https://gist.github.com/DanielSantoro)
+* [WooThemes](https://gist.github.com/woogist)
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
