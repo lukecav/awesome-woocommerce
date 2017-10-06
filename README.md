@@ -112,6 +112,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Login Popup and Shortcodes](https://wordpress.org/plugins/woocommerce-login-popup-and-shortcodes/) - Simple Modal Login Page & Shortcode for WooCommerce.
 * [Checkout Address Autocomplete for WooCommerce](https://wordpress.org/plugins/checkout-address-autocomplete-for-woocommerce/) - Allows your customers to autocomplete billing and shipping addresses on the checkout page using the Google Maps API.
 * [Storefront Design Customizer](https://wordpress.org/plugins/storefront-design-customizer/) - Add beautiful layouts into your Storefront theme, without having to write code.
+* [WooCommerce Cash On Pickup](https://wordpress.org/plugins/wc-cash-on-pickup/) - A WooCommerce Extension that adds the payment gateway "Cash On Pickup".
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
