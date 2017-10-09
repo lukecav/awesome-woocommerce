@@ -118,6 +118,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Woo Lightspeed Customizer](https://github.com/rafdizzle86/woo-lightspeed-customizer) - An example plugin on how to utilize filter and action hooks for the WooCommerce Lightspeed POS integration plugin to further customize it's functionality.
 * [WooCommerce Better Usability](https://wordpress.org/plugins/woo-better-usability/) - Improves overall Woocommerce user experience.
 * [One Time Subscription with monthly order generator](https://github.com/somendrakm/Subscriptions-to-add-one-time-payment-with-a-monthly-subscription-Order) - Subscriptions to add one time payment with a monthly subscription Order.
+* [Color Filters for WooCommerce](https://wordpress.org/plugins/color-filters/) - This plugin allows you to filter WooCommerce products by color from sidebar widget.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
