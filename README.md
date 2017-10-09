@@ -116,6 +116,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Country Based Bank Accounts](https://wordpress.org/plugins/woo-country-based-bank-accounts/) - Choose in which countries certain BACS gateway bank accounts will be available.
 * [WooCommerce Disable Local Pickup on Ship to Different Address](https://wordpress.org/plugins/woo-disable-local-pickup-on-ship-to-different-address/) - WooCommerce Disable Local Pickup on Ship to Different Address.
 * [Woo Lightspeed Customizer](https://github.com/rafdizzle86/woo-lightspeed-customizer) - An example plugin on how to utilize filter and action hooks for the WooCommerce Lightspeed POS integration plugin to further customize it's functionality.
+* [WooCommerce Better Usability](https://wordpress.org/plugins/woo-better-usability/) - Improves overall Woocommerce user experience.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
