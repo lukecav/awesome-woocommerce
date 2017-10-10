@@ -121,6 +121,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Color Filters for WooCommerce](https://wordpress.org/plugins/color-filters/) - This plugin allows you to filter WooCommerce products by color from sidebar widget.
 * [WooCommerce Live Sales Notification](https://wordpress.org/plugins/sales-pop/) - The best social-proof idea to increase customer's buying confidence and trust on your brand: show live sales notification popups to create the sense of a busy store and motivate customers to start buying.
 * [Up Sell Product Display For WooCommerce](https://wordpress.org/plugins/up-sell-product-display-for-woocommerce/) - Woocommerce Up Sell product display using Widgets and Shortcode.
+* [Cross Sell Product Display For Woocommerce](https://wordpress.org/plugins/cross-sell-product-display-for-woocommerce/) - Woocommerce Cross Sell product display using Widgets and Shortcode.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
