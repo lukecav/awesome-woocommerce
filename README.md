@@ -120,6 +120,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [One Time Subscription with monthly order generator](https://github.com/somendrakm/Subscriptions-to-add-one-time-payment-with-a-monthly-subscription-Order) - Subscriptions to add one time payment with a monthly subscription Order.
 * [Color Filters for WooCommerce](https://wordpress.org/plugins/color-filters/) - This plugin allows you to filter WooCommerce products by color from sidebar widget.
 * [WooCommerce Live Sales Notification](https://wordpress.org/plugins/sales-pop/) - The best social-proof idea to increase customer's buying confidence and trust on your brand: show live sales notification popups to create the sense of a busy store and motivate customers to start buying.
+* [Up Sell Product Display For WooCommerce](https://wordpress.org/plugins/up-sell-product-display-for-woocommerce/) - Woocommerce Up Sell product display using Widgets and Shortcode.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
