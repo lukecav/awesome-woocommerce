@@ -122,6 +122,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Live Sales Notification](https://wordpress.org/plugins/sales-pop/) - The best social-proof idea to increase customer's buying confidence and trust on your brand: show live sales notification popups to create the sense of a busy store and motivate customers to start buying.
 * [Up Sell Product Display For WooCommerce](https://wordpress.org/plugins/up-sell-product-display-for-woocommerce/) - Woocommerce Up Sell product display using Widgets and Shortcode.
 * [Cross Sell Product Display For Woocommerce](https://wordpress.org/plugins/cross-sell-product-display-for-woocommerce/) - Woocommerce Cross Sell product display using Widgets and Shortcode.
+* [WooRef](https://wordpress.org/plugins/wooref/) - WooRef is a Wordpress plugin that allows you to view and track WooCommerce sales comes from any referral site.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
