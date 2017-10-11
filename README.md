@@ -7,6 +7,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Search Plugins](#search-plugins)
 * [Search Helper Plugins](#search-helper-plugins)
 * [Google Analytics](#google-analytics)
+* [Performance](#performance)
 
 ## Handy Code Snippets and Plugins
 * [WC Map Guest Orders and Downloads](https://wordpress.org/plugins/wc-map-guest-orders-and-downloads/) - Maps WooCommerce guest orders and downloads to an account with the same e-mail on account creation or login.
@@ -160,4 +161,8 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Google Analytics
 * [How To Track Shopping Cart Abandonment in Google Analytics](http://blog.lemonstand.com/cart-abandonment-google-analytics/) - We have all heard the statistics; about 70% of your customers are abandoning your shopping cart without actually making a purchase.
+
+## Performance
+* [Slow WooCommerce with Many Products](http://www.danielauener.com/slow-woocommerce-many-products/) - WooCommerce is the most used webshop system in the world and its  awesome! However, using WordPress as its application framework has some drawbacks.
+* [How To Track Shopping Cart Abandonment in Google Analytics](http://blog.lemonstand.com/cart-abandonment-google-analytics/) - It’s the WordPress plugin for webshops, without a question. For a shop that is not running WooCommerce with thousands of products, it has a very nice performance, too. However there are limitations and drawbacks running WooCommerce with many products.
 
