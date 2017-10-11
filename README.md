@@ -125,6 +125,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooRef](https://wordpress.org/plugins/wooref/) - WooRef is a Wordpress plugin that allows you to view and track WooCommerce sales comes from any referral site.
 * [Woocommerce Google Feed Manager](https://wordpress.org/plugins/wp-product-feed-manager/) - An easy to use WordPress plugin that generates and submits your product feeds to merchant centres.
 * [WooCom Add Multiple Products](https://wordpress.org/plugins/woocom-add-multiple-products/) -  plugin for adding bulk product by SKU or product name to cart when you're in cart.
+* [Zao WooCommerce Wholesale](https://github.com/zao-web/zao-woocommerce-wholesale) -  Generate wholesale orders for WooCommerce.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
