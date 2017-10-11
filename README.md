@@ -127,6 +127,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCom Add Multiple Products](https://wordpress.org/plugins/woocom-add-multiple-products/) -  plugin for adding bulk product by SKU or product name to cart when you're in cart.
 * [Zao WooCommerce Wholesale](https://github.com/zao-web/zao-woocommerce-wholesale) -  Generate wholesale orders for WooCommerce.
 * [Zao WooCommerce QuickBooks Online Integration](https://github.com/zao-web/zao-woocommerce-quickbooks-online-integration) -  Integrates QuickBooks Online with WooCommerce.
+* [WooCommerce Force Default Variant](https://wordpress.org/plugins/force-default-variant-for-woocommerce/) -  Removes the standard WooCommerce 'Select an Option' from variant Drop Downs and the option to Clear Selection.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
