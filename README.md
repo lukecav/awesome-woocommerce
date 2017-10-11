@@ -164,5 +164,5 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Performance
 * [Slow WooCommerce with Many Products](http://www.danielauener.com/slow-woocommerce-many-products/) - WooCommerce is the most used webshop system in the world and its  awesome! However, using WordPress as its application framework has some drawbacks.
-* [How To Track Shopping Cart Abandonment in Google Analytics](http://blog.lemonstand.com/cart-abandonment-google-analytics/) - It’s the WordPress plugin for webshops, without a question. For a shop that is not running WooCommerce with thousands of products, it has a very nice performance, too. However there are limitations and drawbacks running WooCommerce with many products.
+* [WooCommerce with Thousands of Products: Workarounds for Slow Admin Panel](http://www.danielauener.com/woocommerce-with-thousands-of-products-workarounds-for-slow-admin-panel/) - It’s the WordPress plugin for webshops, without a question. For a shop that is not running WooCommerce with thousands of products, it has a very nice performance, too. However there are limitations and drawbacks running WooCommerce with many products.
 
