@@ -129,6 +129,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Zao WooCommerce Wholesale](https://github.com/zao-web/zao-woocommerce-wholesale) -  Generate wholesale orders for WooCommerce.
 * [Zao WooCommerce QuickBooks Online Integration](https://github.com/zao-web/zao-woocommerce-quickbooks-online-integration) -  Integrates QuickBooks Online with WooCommerce.
 * [WooCommerce Force Default Variant](https://wordpress.org/plugins/force-default-variant-for-woocommerce/) -  Removes the standard WooCommerce 'Select an Option' from variant Drop Downs and the option to Clear Selection.
+* [Payment Gateway Based Fees and Discounts for WooCommerce](https://wordpress.org/plugins/checkout-fees-for-woocommerce/) -  WooCommerce Payment Gateways Fees and Discounts.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
