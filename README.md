@@ -130,6 +130,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Zao WooCommerce QuickBooks Online Integration](https://github.com/zao-web/zao-woocommerce-quickbooks-online-integration) -  Integrates QuickBooks Online with WooCommerce.
 * [WooCommerce Force Default Variant](https://wordpress.org/plugins/force-default-variant-for-woocommerce/) -  Removes the standard WooCommerce 'Select an Option' from variant Drop Downs and the option to Clear Selection.
 * [Payment Gateway Based Fees and Discounts for WooCommerce](https://wordpress.org/plugins/checkout-fees-for-woocommerce/) -  WooCommerce Payment Gateways Fees and Discounts.
+* [SIP Cart Ajax Refresh](https://wordpress.org/plugins/sip-cart-ajax-refresh/) -  This plugin allows you to refresh the WooCommere checkout via Ajax. This is useful when you have the cart and checkout on the same page.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
