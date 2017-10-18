@@ -131,7 +131,8 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Force Default Variant](https://wordpress.org/plugins/force-default-variant-for-woocommerce/) -  Removes the standard WooCommerce 'Select an Option' from variant Drop Downs and the option to Clear Selection.
 * [Payment Gateway Based Fees and Discounts for WooCommerce](https://wordpress.org/plugins/checkout-fees-for-woocommerce/) -  WooCommerce Payment Gateways Fees and Discounts.
 * [SIP Cart Ajax Refresh](https://wordpress.org/plugins/sip-cart-ajax-refresh/) -  This plugin allows you to refresh the WooCommere checkout via Ajax. This is useful when you have the cart and checkout on the same page.
-* [SIP Custom Order Satus for WooCommerce](hhttps://wordpress.org/plugins/sip-custom-order-satus-for-woocommerce/) -  Allows to create custom order statuses on WooCommerce.
+* [SIP Custom Order Satus for WooCommerce](https://wordpress.org/plugins/sip-custom-order-satus-for-woocommerce/) -  Allows to create custom order statuses on WooCommerce.
+* [Advanced AJAX Product Filters](https://wordpress.org/plugins/woocommerce-ajax-filters/) -  Take a look at this fantastic AJAX products filter plugin for WooCommerce. Add unlimited filters with one widget.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
