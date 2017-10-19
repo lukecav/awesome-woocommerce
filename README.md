@@ -135,6 +135,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Advanced AJAX Product Filters](https://wordpress.org/plugins/woocommerce-ajax-filters/) -  Take a look at this fantastic AJAX products filter plugin for WooCommerce. Add unlimited filters with one widget.
 * [Load More Products for WooCommerce](https://wordpress.org/plugins/load-more-products-for-woocommerce/) -  Load products from next page via AJAX with infinite scrolling or load more products button.
 * [iThemes Sales Accelerator](https://wordpress.org/plugins/ithemes-sales-accelerator/) -   Transform your WordPress dashboard with dynamic reports so you can get detailed data and e-commerce insights about your WooCommerce store.
+* [Disable WooCommerce Status](https://wordpress.org/plugins/disable-wc-status-littlebizzy/) -   Completely disables the WooCommerce Status widget in the WP Admin dashboard to greatly improve backend performance on high traffic WooCommerce shops.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
