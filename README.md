@@ -3,6 +3,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Table Of Contents
 * [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
+* [WooCommerce Code Snippets](#woocommerce-code-snippets)
 * [Gist links for WooCommerce](#gist-links-for-woocommerce)
 * [Search Plugins](#search-plugins)
 * [Search Helper Plugins](#search-helper-plugins)
@@ -138,6 +139,11 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Disable WooCommerce Status](https://wordpress.org/plugins/disable-wc-status-littlebizzy/) -   Completely disables the WooCommerce Status widget in the WP Admin dashboard to greatly improve backend performance on high traffic WooCommerce shops.
 * [WooCommerce Direct Checkout](https://wordpress.org/plugins/woocommerce-direct-checkout/) -   Allow you to implement direct checkout (skip cart page) for WooCommerce.
 * [WooCommerce Subscriptions Product Removed Message](https://gist.github.com/thenbrent/7254185) -  Display a notice on checkout when a product was removed from the cart after a subscription was added.
+
+## WooCommerce Code Snippets
+* [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
+* [General Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/general-snippets/) -  General code snippets.
+* [Theming Snippets]https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/snippets-theming/) -  Theming related code snippets.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
