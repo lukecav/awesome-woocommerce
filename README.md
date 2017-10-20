@@ -141,6 +141,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Subscriptions Product Removed Message](https://gist.github.com/thenbrent/7254185) -  Display a notice on checkout when a product was removed from the cart after a subscription was added.
 * [Groups WooCommerce Completed Customer](https://github.com/itthinx/groups-wc-completed-customer) -  This plugin adds customers to the Customer group upon their first completed order.
 * [WooCommerce RRP](https://wordpress.org/plugins/woocommerce-rrp/) -  WooCommerce RRP allows users to add text before the regular price and sale price of a product from within WooCommerce General settings.
+* [WooCommerce Unit Of Measure](https://wordpress.org/plugins/woocommerce-unit-of-measure/) -  WooCommerce Unit Of Measure allows the user to add a unit of measure after the price on WooCommerce products.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
