@@ -143,7 +143,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
 * [General Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/general-snippets/) -  General code snippets.
-* [Theming Snippets]https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/snippets-theming/) -  Theming related code snippets.
+* [Theming Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/snippets-theming/) -  Theming related code snippets.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
