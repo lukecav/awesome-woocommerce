@@ -139,6 +139,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Disable WooCommerce Status](https://wordpress.org/plugins/disable-wc-status-littlebizzy/) -   Completely disables the WooCommerce Status widget in the WP Admin dashboard to greatly improve backend performance on high traffic WooCommerce shops.
 * [WooCommerce Direct Checkout](https://wordpress.org/plugins/woocommerce-direct-checkout/) -   Allow you to implement direct checkout (skip cart page) for WooCommerce.
 * [WooCommerce Subscriptions Product Removed Message](https://gist.github.com/thenbrent/7254185) -  Display a notice on checkout when a product was removed from the cart after a subscription was added.
+* [Groups WooCommerce Completed Customer](https://github.com/itthinx/groups-wc-completed-customer) -  This plugin adds customers to the Customer group upon their first completed order.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
