@@ -137,6 +137,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [iThemes Sales Accelerator](https://wordpress.org/plugins/ithemes-sales-accelerator/) -   Transform your WordPress dashboard with dynamic reports so you can get detailed data and e-commerce insights about your WooCommerce store.
 * [Disable WooCommerce Status](https://wordpress.org/plugins/disable-wc-status-littlebizzy/) -   Completely disables the WooCommerce Status widget in the WP Admin dashboard to greatly improve backend performance on high traffic WooCommerce shops.
 * [WooCommerce Direct Checkout](https://wordpress.org/plugins/woocommerce-direct-checkout/) -   Allow you to implement direct checkout (skip cart page) for WooCommerce.
+* [WooCommerce Subscriptions Product Removed Message](https://gist.github.com/thenbrent/7254185) -  Display a notice on checkout when a product was removed from the cart after a subscription was added.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
