@@ -144,6 +144,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Unit Of Measure](https://wordpress.org/plugins/woocommerce-unit-of-measure/) -  WooCommerce Unit Of Measure allows the user to add a unit of measure after the price on WooCommerce products.
 * [WC City Select](https://wordpress.org/plugins/wc-city-select/) -  City Select for WooCommerce. Show a dropdown select as the cities input.
 * [WC Variations Radio Buttons](https://wordpress.org/plugins/wc-variations-radio-buttons/) -  Variations Radio Buttons for WooCommerce. Let your customers choose product variations using radio buttons instead of dropdowns.
+* [WC Extension](https://github.com/helgatheviking/generator-wc-extension) -  Yeoman generator for a WooCommerce extension.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
