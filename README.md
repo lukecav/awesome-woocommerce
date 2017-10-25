@@ -148,6 +148,8 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [MC Export Bookings WC to CSV](https://github.com/MarieComet/mc-export-bookings-wc-to-csv) -  MC Export Bookings WC to CSV provides user ability to Export WooCommerce Bookings to CSV.
 * [WooRewards](https://wordpress.org/plugins/woorewards/) -  Rewarding and Fidelity system for WooCommerce.
 * [WooCommerce Software License Manager](https://github.com/maddisondesigns/woocommerce-software-license-manager) -  Seamless integration between Woocommerce and Software License Manager.
+* [Simple Catalog for WooCommerce](https://github.com/maddisondesigns/Simple-Catalog-for-WooCommerce) -  Turn your WooCommerce store into a simple online catalog. You can disable your eCommerce functionality for all users or only for users that aren't logged in.
+
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
