@@ -147,6 +147,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WC Extension](https://github.com/helgatheviking/generator-wc-extension) -  Yeoman generator for a WooCommerce extension.
 * [MC Export Bookings WC to CSV](https://github.com/MarieComet/mc-export-bookings-wc-to-csv) -  MC Export Bookings WC to CSV provides user ability to Export WooCommerce Bookings to CSV.
 * [WooRewards](https://wordpress.org/plugins/woorewards/) -  Rewarding and Fidelity system for WooCommerce.
+* [WooCommerce Software License Manager](https://github.com/maddisondesigns/woocommerce-software-license-manager) -  Seamless integration between Woocommerce and Software License Manager.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
