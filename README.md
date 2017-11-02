@@ -152,6 +152,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Cancel Abandoned Order](https://wordpress.org/plugins/woo-cancel-abandoned-order/) -  Cancel "on hold" orders after a certain number of days.
 * [WooCommerce Customer Care](https://wordpress.org/plugins/woo-customer-care/) - Customer care system for WooCommerce.
 * [WooCommerce Smart Compare](https://wordpress.org/plugins/woo-smart-compare/) - Smart products compare for WooCommerce.
+* [WooCommerce Downloadable Product Update-Emails](https://github.com/UVLabs/WooCommerce-Downloadable-Product-Update-Emails) - Inform customers when there is an update to their WooCommerce downloadable product via email.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
