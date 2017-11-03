@@ -153,6 +153,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Customer Care](https://wordpress.org/plugins/woo-customer-care/) - Customer care system for WooCommerce.
 * [WooCommerce Smart Compare](https://wordpress.org/plugins/woo-smart-compare/) - Smart products compare for WooCommerce.
 * [WooCommerce Downloadable Product Update-Emails](https://github.com/UVLabs/WooCommerce-Downloadable-Product-Update-Emails) - Inform customers when there is an update to their WooCommerce downloadable product via email.
+* [WooCommerce Product Finder](hhttps://wordpress.org/plugins/woo-product-finder/) - Woo Product Finder let customers narrow down the product list on the basis of their choices. It enables the store owners to add a questionnaire to the product page. The product recommendations are then rendered according to the answers, given by the users. You can showcase â€˜nâ€™ number of products, matching the answers and query.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
