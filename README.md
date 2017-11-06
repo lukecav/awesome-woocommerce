@@ -155,6 +155,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Downloadable Product Update-Emails](https://github.com/UVLabs/WooCommerce-Downloadable-Product-Update-Emails) - Inform customers when there is an update to their WooCommerce downloadable product via email.
 * [WooCommerce Product Finder](hhttps://wordpress.org/plugins/woo-product-finder/) - Woo Product Finder let customers narrow down the product list on the basis of their choices. It enables the store owners to add a questionnaire to the product page. The product recommendations are then rendered according to the answers, given by the users. You can showcase â€˜nâ€™ number of products, matching the answers and query.
 * [WooCommerce Add GTIN: UPC, EAN, and ISBN](https://wordpress.org/plugins/woo-add-gtin/) - Add GTIN including UPC, EAN, and ISBN code fields to your WooCommerce product pages and checkout.
+* [WooCommerce Filter Orders by Product](https://wordpress.org/plugins/woocommerce-filter-orders-by-product/) - This plugin lets you filter the WooCommrce Orders by any specific product.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
