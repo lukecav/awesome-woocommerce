@@ -157,6 +157,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Add GTIN: UPC, EAN, and ISBN](https://wordpress.org/plugins/woo-add-gtin/) - Add GTIN including UPC, EAN, and ISBN code fields to your WooCommerce product pages and checkout.
 * [WooCommerce Filter Orders by Product](https://wordpress.org/plugins/woocommerce-filter-orders-by-product/) - This plugin lets you filter the WooCommrce Orders by any specific product.
 * [Recover Abandoned Cart for WooCommerce – ChatX.ai](https://wordpress.org/plugins/chatx-ai/) - Recover abandoned carts on WooCommerce using an intelligent Facebook Messenger chatbot.
+* [WooCommerce Product Dependencies](https://wordpress.org/plugins/woocommerce-product-dependencies/) - Restrict access to WooCommerce products, depending on the ownership and/or purchase of other, prerequisite products.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
