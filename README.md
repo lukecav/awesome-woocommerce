@@ -158,6 +158,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Filter Orders by Product](https://wordpress.org/plugins/woocommerce-filter-orders-by-product/) - This plugin lets you filter the WooCommrce Orders by any specific product.
 * [Recover Abandoned Cart for WooCommerce – ChatX.ai](https://wordpress.org/plugins/chatx-ai/) - Recover abandoned carts on WooCommerce using an intelligent Facebook Messenger chatbot.
 * [WooCommerce Product Dependencies](https://wordpress.org/plugins/woocommerce-product-dependencies/) - Restrict access to WooCommerce products, depending on the ownership and/or purchase of other, prerequisite products.
+* [WooCommerce Stacked Product Layout](https://wordpress.org/plugins/woocommerce-full-width-add-to-cart-forms/) - A handy plugin for stacking the add-to-cart section of complex WooCommerce product types below the main product image and summary. Useful if the add-to-cart section of your products appears very narrow or squeezed.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
