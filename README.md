@@ -161,6 +161,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Stacked Product Layout](https://wordpress.org/plugins/woocommerce-full-width-add-to-cart-forms/) - A handy plugin for stacking the add-to-cart section of complex WooCommerce product types below the main product image and summary. Useful if the add-to-cart section of your products appears very narrow or squeezed.
 * [Remarkety – Email Marketing for WooCommerce](https://wordpress.org/plugins/remarkety-for-woocommerce/) - Email Marketing automation tool for WooCommerce.
 * [Profit Reports for WooCommerce](https://wordpress.org/plugins/profit-reports-for-woocommerce/) -  Adds Profit Reporting Capability to WooCommerce.
+* [Easy Options for WooCommerce](https://wordpress.org/plugins/easy-options-for-woocommerce/) -  ccess hidden WooCommerce options such as: Disable Confirm Logout, Change Minimum Password Strength, Show Empty Product Categories, Hide Product Category Name/Count, Disable New User Registration from wp-login.php screen.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
