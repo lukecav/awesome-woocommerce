@@ -160,6 +160,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Product Dependencies](https://wordpress.org/plugins/woocommerce-product-dependencies/) - Restrict access to WooCommerce products, depending on the ownership and/or purchase of other, prerequisite products.
 * [WooCommerce Stacked Product Layout](https://wordpress.org/plugins/woocommerce-full-width-add-to-cart-forms/) - A handy plugin for stacking the add-to-cart section of complex WooCommerce product types below the main product image and summary. Useful if the add-to-cart section of your products appears very narrow or squeezed.
 * [Remarkety – Email Marketing for WooCommerce](https://wordpress.org/plugins/remarkety-for-woocommerce/) - Email Marketing automation tool for WooCommerce.
+* [Profit Reports for WooCommerce](https://wordpress.org/plugins/profit-reports-for-woocommerce/) -  Adds Profit Reporting Capability to WooCommerce.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
