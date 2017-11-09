@@ -163,6 +163,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Profit Reports for WooCommerce](https://wordpress.org/plugins/profit-reports-for-woocommerce/) -  Adds Profit Reporting Capability to WooCommerce.
 * [Easy Options for WooCommerce](https://wordpress.org/plugins/easy-options-for-woocommerce/) -  Access hidden WooCommerce options such as: Disable Confirm Logout, Change Minimum Password Strength, Show Empty Product Categories, Hide Product Category Name/Count, Disable New User Registration from wp-login.php screen.
 * [Robot Ninja Helper](https://wordpress.org/plugins/robot-ninja-helper/) -  Helper plugin for Robot Ninja users.
+* [WooCommerce Subscriptions - Cancel on Refund](https://github.com/Prospress/woocommerce-subscriptions-cancel-on-refund) -  Cancel a subscription when its parent order or last renewal order is fully refunded.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
