@@ -166,6 +166,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Subscriptions - Cancel on Refund](https://github.com/Prospress/woocommerce-subscriptions-cancel-on-refund) -  Cancel a subscription when its parent order or last renewal order is fully refunded.
 * [WooCommerce Subscriptions Renewal Timer](https://github.com/Prospress/woocommerce-subscriptions-renewal-timer) -  Log the beginning and end of subscription renewal events. To view the log file: Go to WooCommerce > System Status > Logs and select the log file with the `'wcs-renewal'` prefix.
 * [WooCommerce One Page Checkout - Do Not Empty Cart](https://github.com/Prospress/woocommerce-one-page-checkout-do-not-empty-cart) -  By default, WooCommerce One Page Checkout will empty the cart for product selection via radio elements or Easy Pricing Tables. This changes that to allow existing cart items to persist.
+* [Product Quantity for WooCommerce](https://wordpress.org/plugins/product-quantity-for-woocommerce/) -  Set minimum and maximum product quantities for cart and order in WooCommerce.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
