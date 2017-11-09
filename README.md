@@ -164,6 +164,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Easy Options for WooCommerce](https://wordpress.org/plugins/easy-options-for-woocommerce/) -  Access hidden WooCommerce options such as: Disable Confirm Logout, Change Minimum Password Strength, Show Empty Product Categories, Hide Product Category Name/Count, Disable New User Registration from wp-login.php screen.
 * [Robot Ninja Helper](https://wordpress.org/plugins/robot-ninja-helper/) -  Helper plugin for Robot Ninja users.
 * [WooCommerce Subscriptions - Cancel on Refund](https://github.com/Prospress/woocommerce-subscriptions-cancel-on-refund) -  Cancel a subscription when its parent order or last renewal order is fully refunded.
+* [WooCommerce Subscriptions Renewal Timer](https://github.com/Prospress/woocommerce-subscriptions-renewal-timer) -  Log the beginning and end of subscription renewal events. To view the log file: Go to WooCommerce > System Status > Logs and select the log file with the `'wcs-renewal'` prefix.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
