@@ -1,4 +1,4 @@
-# awesome-woocommerce
+# Awesome WooCommerce
 Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Table Of Contents
