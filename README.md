@@ -168,6 +168,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce One Page Checkout - Do Not Empty Cart](https://github.com/Prospress/woocommerce-one-page-checkout-do-not-empty-cart) -  By default, WooCommerce One Page Checkout will empty the cart for product selection via radio elements or Easy Pricing Tables. This changes that to allow existing cart items to persist.
 * [Product Quantity for WooCommerce](https://wordpress.org/plugins/product-quantity-for-woocommerce/) -  Set minimum and maximum product quantities for cart and order in WooCommerce.
 * [WooCommerce Custom Thank You](https://github.com/liquidweb/woocommerce-custom-thank-you) -  A WooCommerce extension that allows you to set a custom "Thank You" page on a per-product basis.
+* [Uni CPO – WooCommerce Options and Price Calculation Formulas Lite](https://wordpress.org/plugins/uni-woo-custom-product-options/) -  Creates an opportunity to add custom options for products with the possibility to calculate product price based on the chosen options and using custom maths formula.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
