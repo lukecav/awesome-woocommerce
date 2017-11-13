@@ -170,6 +170,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Custom Thank You](https://github.com/liquidweb/woocommerce-custom-thank-you) -  A WooCommerce extension that allows you to set a custom "Thank You" page on a per-product basis.
 * [Uni CPO – WooCommerce Options and Price Calculation Formulas Lite](https://wordpress.org/plugins/uni-woo-custom-product-options/) -  Creates an opportunity to add custom options for products with the possibility to calculate product price based on the chosen options and using custom maths formula.
 * [CartStack for WooCommerce](https://wordpress.org/plugins/cartstack-for-woocommerce/) -  Brings the power of CartStack to WooCommerce.
+* [Mauticommerce](https://wordpress.org/plugins/mauticommerce/) -  Send WooCommerce customer information to Mautic Form.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
