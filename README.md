@@ -172,6 +172,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [CartStack for WooCommerce](https://wordpress.org/plugins/cartstack-for-woocommerce/) -  Brings the power of CartStack to WooCommerce.
 * [Mauticommerce](https://wordpress.org/plugins/mauticommerce/) -  Send WooCommerce customer information to Mautic Form.
 * [WooCommerce Cart Restrictions](https://gist.github.com/devinsays/ff6fa702e308aa07d9cfcd206aac3006) -  Restricts which items can be added to cart based on whether a specific item is already in the cart or being added to the cart.
+* [Snappic for WooCommerce](https://wordpress.org/plugins/snappic/) -  Link your WooCommerce store to Snappic.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
