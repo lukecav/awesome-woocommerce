@@ -174,6 +174,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Cart Restrictions](https://gist.github.com/devinsays/ff6fa702e308aa07d9cfcd206aac3006) -  Restricts which items can be added to cart based on whether a specific item is already in the cart or being added to the cart.
 * [Snappic for WooCommerce](https://wordpress.org/plugins/snappic/) -  Link your WooCommerce store to Snappic.
 * [Razorpay Subscriptions for WooCommerce](https://wordpress.org/plugins/razorpay-subscriptions-for-woocommerce/) -  Razorpay Subscriptions for WooCommerce.
+* [WooCommerce Quantity Increment](https://wordpress.org/plugins/woocommerce-quantity-increment/) -  WooCommerce Quantity Increment adds JavaScript powered quantity buttons to your cart page.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
