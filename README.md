@@ -175,6 +175,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Snappic for WooCommerce](https://wordpress.org/plugins/snappic/) -  Link your WooCommerce store to Snappic.
 * [Razorpay Subscriptions for WooCommerce](https://wordpress.org/plugins/razorpay-subscriptions-for-woocommerce/) -  Razorpay Subscriptions for WooCommerce.
 * [WooCommerce Quantity Increment](https://wordpress.org/plugins/woocommerce-quantity-increment/) -  WooCommerce Quantity Increment adds JavaScript powered quantity buttons to your cart page.
+* [Crystal for WooCommerce](https://wordpress.org/plugins/crystal-for-woocommerce/) -  Crystal for WooCommerce is the smart plug-in to monitor your e-shop, maximize results and boost your business.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
