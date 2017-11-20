@@ -176,6 +176,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Razorpay Subscriptions for WooCommerce](https://wordpress.org/plugins/razorpay-subscriptions-for-woocommerce/) -  Razorpay Subscriptions for WooCommerce.
 * [WooCommerce Quantity Increment](https://wordpress.org/plugins/woocommerce-quantity-increment/) -  WooCommerce Quantity Increment adds JavaScript powered quantity buttons to your cart page.
 * [Crystal for WooCommerce](https://wordpress.org/plugins/crystal-for-woocommerce/) -  Crystal for WooCommerce is the smart plug-in to monitor your e-shop, maximize results and boost your business.
+* [WooCommerce Multiple Customer Addresses](https://wordpress.org/plugins/multiple-customer-addresses-for-woocommerce/) -  The plugin allows customers have more than one shipping or billing addresses. Customers can switch one to another on checkout or setup a default one in My Account.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
