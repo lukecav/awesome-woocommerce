@@ -178,6 +178,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Crystal for WooCommerce](https://wordpress.org/plugins/crystal-for-woocommerce/) -  Crystal for WooCommerce is the smart plug-in to monitor your e-shop, maximize results and boost your business.
 * [WooCommerce Multiple Customer Addresses](https://wordpress.org/plugins/multiple-customer-addresses-for-woocommerce/) -  The plugin allows customers have more than one shipping or billing addresses. Customers can switch one to another on checkout or setup a default one in My Account.
 * [RFQ-ToolKit for WooCommerce](https://wordpress.org/plugins/woo-rfq-for-woocommerce/) -  Request For Quote For WooCommerce.
+* [WooCommerce Distance Based Fee](https://wordpress.org/plugins/woo-distance-based-fee/) -  This plugin adds fee based on distance.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
