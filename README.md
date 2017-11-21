@@ -179,6 +179,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Multiple Customer Addresses](https://wordpress.org/plugins/multiple-customer-addresses-for-woocommerce/) -  The plugin allows customers have more than one shipping or billing addresses. Customers can switch one to another on checkout or setup a default one in My Account.
 * [RFQ-ToolKit for WooCommerce](https://wordpress.org/plugins/woo-rfq-for-woocommerce/) -  Request For Quote For WooCommerce.
 * [WooCommerce Distance Based Fee](https://wordpress.org/plugins/woo-distance-based-fee/) -  This plugin adds fee based on distance.
+* [WooCommerce Extra Product Sorting Options](https://wordpress.org/plugins/woocommerce-extra-product-sorting-options/) -  Rename default sorting and optionally extra product sorting options.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
