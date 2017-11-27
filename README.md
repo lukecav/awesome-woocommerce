@@ -180,6 +180,8 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [RFQ-ToolKit for WooCommerce](https://wordpress.org/plugins/woo-rfq-for-woocommerce/) -  Request For Quote For WooCommerce.
 * [WooCommerce Distance Based Fee](https://wordpress.org/plugins/woo-distance-based-fee/) -  This plugin adds fee based on distance.
 * [WooCommerce Extra Product Sorting Options](https://wordpress.org/plugins/woocommerce-extra-product-sorting-options/) -  Rename default sorting and optionally extra product sorting options.
+* [Woo Cart Fields](https://wordpress.org/plugins/woo-cart-fields/) -  Add form fields to the cart page.
+* [Woo Product Addons Cart Editable Fields](https://wordpress.org/plugins/woo-product-addons-cart-editable-fields/) -  Allow the user to edit their addons in the cart.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
