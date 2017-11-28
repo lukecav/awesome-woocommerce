@@ -182,6 +182,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Extra Product Sorting Options](https://wordpress.org/plugins/woocommerce-extra-product-sorting-options/) -  Rename default sorting and optionally extra product sorting options.
 * [Woo Cart Fields](https://wordpress.org/plugins/woo-cart-fields/) -  Add form fields to the cart page.
 * [Woo Product Addons Cart Editable Fields](https://wordpress.org/plugins/woo-product-addons-cart-editable-fields/) -  Allow the user to edit their addons in the cart.
+* [DHL for WooCommerce](https://wordpress.org/plugins/dhl-for-woocommerce/) -  WooCommerce integration for DHL eCommerce, DHL Paket and DHL Parcel Europe (Benelux and Iberia).
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
