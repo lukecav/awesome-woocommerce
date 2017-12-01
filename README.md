@@ -184,6 +184,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Woo Product Addons Cart Editable Fields](https://wordpress.org/plugins/woo-product-addons-cart-editable-fields/) -  Allow the user to edit their addons in the cart.
 * [DHL for WooCommerce](https://wordpress.org/plugins/dhl-for-woocommerce/) -  WooCommerce integration for DHL eCommerce, DHL Paket and DHL Parcel Europe (Benelux and Iberia).
 * [Multi Order for WooCommerce](https://github.com/algoritmika/multi-order-for-woocommerce) -  Split your orders in suborders.
+* [WC Custom Add to Cart labels](https://wordpress.org/plugins/wc-custom-add-to-cart-labels/) -  This plugin lets you change the "add to cart" labels on single product pages (per product type) and archive / shop page (per product type).
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
