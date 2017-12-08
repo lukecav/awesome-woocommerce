@@ -186,6 +186,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Multi Order for WooCommerce](https://github.com/algoritmika/multi-order-for-woocommerce) -  Split your orders in suborders.
 * [WC Custom Add to Cart labels](https://wordpress.org/plugins/wc-custom-add-to-cart-labels/) -  This plugin lets you change the "add to cart" labels on single product pages (per product type) and archive / shop page (per product type).
 * [Akaunting for WooCommerce](https://wordpress.org/plugins/akaunting-for-woocommerce/) -  Akaunting is a free and online accounting software. This plugin integrates Akaunting with WooCommerce.
+* [Escrow.com Payments for WooCommerce](https://wordpress.org/plugins/woo-escrow-gateway/) -  Take secure escrow payments on your store using Escrow.com.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
