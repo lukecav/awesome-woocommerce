@@ -187,6 +187,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WC Custom Add to Cart labels](https://wordpress.org/plugins/wc-custom-add-to-cart-labels/) -  This plugin lets you change the "add to cart" labels on single product pages (per product type) and archive / shop page (per product type).
 * [Akaunting for WooCommerce](https://wordpress.org/plugins/akaunting-for-woocommerce/) -  Akaunting is a free and online accounting software. This plugin integrates Akaunting with WooCommerce.
 * [Escrow.com Payments for WooCommerce](https://wordpress.org/plugins/woo-escrow-gateway/) -  Take secure escrow payments on your store using Escrow.com.
+* [WooCommerce Product Stock Alert](https://wordpress.org/plugins/woocommerce-product-stock-alert/) -  Woocommerce plugin using which a customer can subscribe for interest on an out of stock product. When the product becomes available, subscribed customer will get an alert email.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
