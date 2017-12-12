@@ -188,6 +188,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Akaunting for WooCommerce](https://wordpress.org/plugins/akaunting-for-woocommerce/) -  Akaunting is a free and online accounting software. This plugin integrates Akaunting with WooCommerce.
 * [Escrow.com Payments for WooCommerce](https://wordpress.org/plugins/woo-escrow-gateway/) -  Take secure escrow payments on your store using Escrow.com.
 * [WooCommerce Product Stock Alert](https://wordpress.org/plugins/woocommerce-product-stock-alert/) -  Woocommerce plugin using which a customer can subscribe for interest on an out of stock product. When the product becomes available, subscribed customer will get an alert email.
+* [More Sorting Options for WooCommerce](https://wordpress.org/plugins/woocommerce-more-sorting/) -  Add new custom, rearrange, remove or rename WooCommerce sorting options.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
