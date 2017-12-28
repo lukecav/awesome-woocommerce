@@ -191,6 +191,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [More Sorting Options for WooCommerce](https://wordpress.org/plugins/woocommerce-more-sorting/) -  Add new custom, rearrange, remove or rename WooCommerce sorting options.
 * [Woo Product Suggest](https://wordpress.org/plugins/woo-product-suggest/) -  Suggest and link a WooCommerce product to an existing product or bundle with custom notice.
 * [Facebook Pixel by PixelYourSite – Events, WooCommerce & Easy Digital Downloads](https://wordpress.org/plugins/pixelyoursite/) -  Add the Facebook Pixel code into your Wordpress site and set up standard events with just a few clicks. Fully compatible with Woocommerce, purchase event included.
+* [Performance Improvements for WooCommerce](https://github.com/lukecav/performance-improvements-for-woocommerce) -  Performance tweaks related to orders on the front-end and the back-end of a store. Will also disable dashboard widgets for reviews and status in WooCommerce.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
