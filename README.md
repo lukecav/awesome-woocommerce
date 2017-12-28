@@ -193,6 +193,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Facebook Pixel by PixelYourSite – Events, WooCommerce & Easy Digital Downloads](https://wordpress.org/plugins/pixelyoursite/) -  Add the Facebook Pixel code into your Wordpress site and set up standard events with just a few clicks. Fully compatible with Woocommerce, purchase event included.
 * [Performance Improvements for WooCommerce](https://github.com/lukecav/performance-improvements-for-woocommerce) -  Performance tweaks related to orders on the front-end and the back-end of a store. Will also disable dashboard widgets for reviews and status in WooCommerce.
 * [Premmerce](https://wordpress.org/plugins/premmerce/) -  Premmerce is a must-have toolkit for WooCommerce with a detailed Setup Wizard for your store.
+* [WooCommerce Customer Source](https://github.com/devinsays/woocommerce-customer-source) -  Learn where your customers are coming from. Adds a select field to the WooCommerce checkout screen that asks how new customers found out about the store.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
