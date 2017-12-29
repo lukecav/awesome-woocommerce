@@ -194,6 +194,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Performance Improvements for WooCommerce](https://github.com/lukecav/performance-improvements-for-woocommerce) -  Performance tweaks related to orders on the front-end and the back-end of a store. Will also disable dashboard widgets for reviews and status in WooCommerce.
 * [Premmerce](https://wordpress.org/plugins/premmerce/) -  Premmerce is a must-have toolkit for WooCommerce with a detailed Setup Wizard for your store.
 * [WooCommerce Customer Source](https://github.com/devinsays/woocommerce-customer-source) -  Learn where your customers are coming from. Adds a select field to the WooCommerce checkout screen that asks how new customers found out about the store.
+* [Phone Orders for WooCommerce](https://wordpress.org/plugins/phone-orders-for-woocommerce/) -  Create manual/phone orders in WooCommerce quickly.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
