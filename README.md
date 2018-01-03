@@ -196,6 +196,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Customer Source](https://github.com/devinsays/woocommerce-customer-source) -  Learn where your customers are coming from. Adds a select field to the WooCommerce checkout screen that asks how new customers found out about the store.
 * [Phone Orders for WooCommerce](https://wordpress.org/plugins/phone-orders-for-woocommerce/) -  Create manual/phone orders in WooCommerce quickly.
 * [Disable email notifications](https://wordpress.org/plugins/woo-disable-email-notifications/) -  Disable email notifications on your Woocommerce installation.
+* [Customer Reviews for WooCommerce](https://wordpress.org/plugins/customer-reviews-woocommerce/) -  Customer Reviews for WooCommerce plugin helps you get more customer reviews for your shop by sending automated reminders and coupons.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
