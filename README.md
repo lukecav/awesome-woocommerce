@@ -198,6 +198,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Disable email notifications](https://wordpress.org/plugins/woo-disable-email-notifications/) -  Disable email notifications on your Woocommerce installation.
 * [Customer Reviews for WooCommerce](https://wordpress.org/plugins/customer-reviews-woocommerce/) -  Customer Reviews for WooCommerce plugin helps you get more customer reviews for your shop by sending automated reminders and coupons.
 * [WooCommerce Google Sheets Integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) -  Sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration.
+* [One Time Subscription with monthly order generator](https://github.com/somendrakm/Subscriptions-to-add-one-time-payment-with-a-monthly-subscription-Order) -  Subscriptions to add one time payment with a monthly subscription Order.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
