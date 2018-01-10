@@ -200,6 +200,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Google Sheets Integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) -  Sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration.
 * [One Time Subscription with monthly order generator](https://github.com/somendrakm/Subscriptions-to-add-one-time-payment-with-a-monthly-subscription-Order) -  Subscriptions to add one time payment with a monthly subscription Order.
 * [WooCommerce Autocomplete Orders](https://wordpress.org/plugins/woocommerce-autocomplete-order/) -  Would you buy twice from a website that does not give you instanctly access to the product you purchased? Why would you want that for your customer? Take back the ownership of your ecommerce.
+* [Premmerce Woocommerce Wholesale Pricing](https://wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/) -  Premmerce WooCommerce Wholesale Pricing is a plugin that allows you to add individual wholesale prices or other price types for WooCommerce products to  any customers roles.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
