@@ -210,6 +210,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Max Quantity](https://wordpress.org/plugins/woocommerce-max-quantity/) -  Set a limit for the max quantity of products that can be added to cart, per product. Now with individual product limits.
 * [WooCommerce Move Reviews](https://wordpress.org/plugins/woocommerce-move-reviews/) -  Allows you to easily move reviews from one product to another.
 * [Multiple Packages for WooCommerce](https://wordpress.org/plugins/multiple-packages-for-woocommerce/) -  A simple UI to take advatage of multiple shipping packages without PHP knowledge.
+* [WooCommerce Quick View by Beeketing](https://wordpress.org/plugins/woo-quick-view-by-beeketing/) -  Show Quick View popup when customers click product images on home and collection pages. Show size guide, color swatch and review sections to increase add-to-cart rate.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
