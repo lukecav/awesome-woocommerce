@@ -203,6 +203,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Premmerce Woocommerce Wholesale Pricing](https://wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/) -  Premmerce WooCommerce Wholesale Pricing is a plugin that allows you to add individual wholesale prices or other price types for WooCommerce products to  any customers roles.
 * [WooCommerce Product Feed](https://wordpress.org/plugins/webappick-product-feed-for-woocommerce/) -  This plugin generate WooCommerce product feed for Shopping Engines like Google Shopping,Facebook Product Feed,eBay,Amazon,Idealo and many more.
 * [Premmerce Woocommerce Product Bundles](https://wordpress.org/plugins/premmerce-woocommerce-product-bundles/) -  Plugin create product bundles in WooCommerce.
+* [WC REST Payment](https://wordpress.org/plugins/wc-rest-payment/) -  WC REST Payment adds in the missing REST API endpoint for process payment in WooCommerce. 
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
