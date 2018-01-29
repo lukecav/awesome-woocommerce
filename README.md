@@ -204,6 +204,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Product Feed](https://wordpress.org/plugins/webappick-product-feed-for-woocommerce/) -  This plugin generate WooCommerce product feed for Shopping Engines like Google Shopping,Facebook Product Feed,eBay,Amazon,Idealo and many more.
 * [Premmerce Woocommerce Product Bundles](https://wordpress.org/plugins/premmerce-woocommerce-product-bundles/) -  Plugin create product bundles in WooCommerce.
 * [WC REST Payment](https://wordpress.org/plugins/wc-rest-payment/) -  WC REST Payment adds in the missing REST API endpoint for process payment in WooCommerce. 
+* [WooCommerce Square](https://wordpress.org/plugins/woocommerce-square/) -  Adds ability to sync inventory between WooCommerce and Square POS. In addition, you can also make purchases through the Square payment gateway.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
