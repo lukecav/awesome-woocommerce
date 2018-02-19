@@ -206,6 +206,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WC REST Payment](https://wordpress.org/plugins/wc-rest-payment/) -  WC REST Payment adds in the missing REST API endpoint for process payment in WooCommerce. 
 * [WooCommerce Square](https://wordpress.org/plugins/woocommerce-square/) -  Adds ability to sync inventory between WooCommerce and Square POS. In addition, you can also make purchases through the Square payment gateway.
 * [Shop as Client for WooCommerce](https://wordpress.org/plugins/shop-as-client/) -  Allows a WooCommerce Store Administrator or Shop Manager to use the frontend and assign a new order to a registered or new customer. Useful for phone or email orders.
+* [WooCommerce Edit Order Numbers](https://wordpress.org/plugins/ultimatewoo-edit-order-numbers/) - Manually edit WooCommerce order numbers.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
