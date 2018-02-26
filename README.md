@@ -207,6 +207,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Square](https://wordpress.org/plugins/woocommerce-square/) -  Adds ability to sync inventory between WooCommerce and Square POS. In addition, you can also make purchases through the Square payment gateway.
 * [Shop as Client for WooCommerce](https://wordpress.org/plugins/shop-as-client/) -  Allows a WooCommerce Store Administrator or Shop Manager to use the frontend and assign a new order to a registered or new customer. Useful for phone or email orders.
 * [WooCommerce Custom Add To Cart Button](https://wordpress.org/plugins/woo-custom-add-to-cart-button/) - Change the 'Add to Cart' button text in WooCommerce, and optionally add a cart icon.
+* [WooCommerce Stripe fee in Report](https://wordpress.org/plugins/woo-stripe-fee-in-report/) - Shows Stripe fees in WooCommerce charts. Calculates a correct net total.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
