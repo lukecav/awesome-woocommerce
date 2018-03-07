@@ -219,6 +219,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Multiple Packages for WooCommerce](https://wordpress.org/plugins/multiple-packages-for-woocommerce/) -  A simple UI to take advatage of multiple shipping packages without PHP knowledge.
 * [WooCommerce Quick View by Beeketing](https://wordpress.org/plugins/woo-quick-view-by-beeketing/) -  Show Quick View popup when customers click product images on home and collection pages. Show size guide, color swatch and review sections to increase add-to-cart rate.
 * [Square Thumbnails](https://wordpress.org/plugins/square-thumbnails/) -  Making Square Thumbnails without cropping the image. 
+* [WooCommerce Manual Payment](https://wordpress.org/plugins/woo-mp/) -  Process payments right from the backend. No need to leave the WooCommerce Edit Order screen. 
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
