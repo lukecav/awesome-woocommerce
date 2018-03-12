@@ -209,6 +209,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Custom Add To Cart Button](https://wordpress.org/plugins/woo-custom-add-to-cart-button/) - Change the 'Add to Cart' button text in WooCommerce, and optionally add a cart icon.
 * [WooCommerce Stripe fee in Report](https://wordpress.org/plugins/woo-stripe-fee-in-report/) - Shows Stripe fees in WooCommerce charts. Calculates a correct net total.
 * [Cart REST API for WooCommerce](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) - Provides additional REST-API endpoints for WooCommerce to enable the ability to add, view, update and delete items from the cart.
+* [WooCommerce Cart Product Title](https://github.com/jcasabona/woocommerce-product-cart-title) - This is a simple plugin for WooCommerce that will change the product title in the cart to help prevent cart abandonment.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
