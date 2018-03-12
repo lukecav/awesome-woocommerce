@@ -210,6 +210,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Stripe fee in Report](https://wordpress.org/plugins/woo-stripe-fee-in-report/) - Shows Stripe fees in WooCommerce charts. Calculates a correct net total.
 * [Cart REST API for WooCommerce](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) - Provides additional REST-API endpoints for WooCommerce to enable the ability to add, view, update and delete items from the cart.
 * [WooCommerce Cart Product Title](https://github.com/jcasabona/woocommerce-product-cart-title) - This is a simple plugin for WooCommerce that will change the product title in the cart to help prevent cart abandonment.
+* [HubSpot WooCommerce Integration](https://wordpress.org/plugins/hubwoo-integration/) - A very powerful plugin to integrate your WooCommerce store with HubSpot seemlesly.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
