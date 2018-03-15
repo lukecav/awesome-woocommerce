@@ -211,6 +211,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Cart REST API for WooCommerce](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) - Provides additional REST-API endpoints for WooCommerce to enable the ability to add, view, update and delete items from the cart.
 * [WooCommerce Cart Product Title](https://github.com/jcasabona/woocommerce-product-cart-title) - This is a simple plugin for WooCommerce that will change the product title in the cart to help prevent cart abandonment.
 * [HubSpot WooCommerce Integration](https://wordpress.org/plugins/hubwoo-integration/) - A very powerful plugin to integrate your WooCommerce store with HubSpot seemlesly.
+* [Smart Related Products for Woocommerce](https://wordpress.org/plugins/smart-related-products-for-woocommerce/) - By defaualt Woocommerce displays related products by the category. Smart related products for Woocommerce can override this logic and show them by attributes.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
