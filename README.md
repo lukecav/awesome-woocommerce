@@ -224,6 +224,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Square Thumbnails](https://wordpress.org/plugins/square-thumbnails/) -  Making Square Thumbnails without cropping the image. 
 * [WooCommerce Manual Payment](https://wordpress.org/plugins/woo-mp/) -  Process payments right from the backend. No need to leave the WooCommerce Edit Order screen. 
 * [WooCommerce Invoicing Payments w/ Sprout Invoices](https://wordpress.org/plugins/woo-invoicing-payments-w-sprout-invoices/) -  A Sprout Invoices payment integration with WooCommerce checkout.
+* [Quantities and Units for WooCommerce](https://wordpress.org/plugins/quantities-and-units-for-woocommerce/) -  Easily require your customers to buy a minimum / maximum / incremental amount of products to continue with their checkout.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
