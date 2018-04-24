@@ -214,6 +214,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Smart Related Products for Woocommerce](https://wordpress.org/plugins/smart-related-products-for-woocommerce/) - By defaualt Woocommerce displays related products by the category. Smart related products for Woocommerce can override this logic and show them by attributes.
 * [WooCommerce Cart Items Bulk Deletion](https://wordpress.org/plugins/woo-cart-items-bulk-deletion/) - This plugin allows you to delete all your cart items with on click.
 * [WooCommerce Global Price Options](https://wordpress.org/plugins/atr-woo-global-price-options/) - Add global price options by category to WooCommerce products. 
+* [Jet Integration for WooCommerce](https://wordpress.org/plugins/woo-jet-integration/) - JET Integration Plugin, a complete solution for integrating your online store with Jet.com.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
