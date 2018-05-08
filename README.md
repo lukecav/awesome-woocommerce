@@ -228,6 +228,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Manual Payment](https://wordpress.org/plugins/woo-mp/) -  Process payments right from the backend. No need to leave the WooCommerce Edit Order screen. 
 * [WooCommerce Invoicing Payments w/ Sprout Invoices](https://wordpress.org/plugins/woo-invoicing-payments-w-sprout-invoices/) -  A Sprout Invoices payment integration with WooCommerce checkout.
 * [Quantities and Units for WooCommerce](https://wordpress.org/plugins/quantities-and-units-for-woocommerce/) -  Easily require your customers to buy a minimum / maximum / incremental amount of products to continue with their checkout.
+* [Order Hours Scheduler for WooCommerce](https://wordpress.org/plugins/order-hours-scheduler-for-woocommerce/) -  Create Custom Schedules to Automatically Enable & Disable WooCommerce Customer Checkout Functionality.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
