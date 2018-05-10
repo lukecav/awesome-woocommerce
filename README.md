@@ -215,6 +215,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Cart Items Bulk Deletion](https://wordpress.org/plugins/woo-cart-items-bulk-deletion/) - This plugin allows you to delete all your cart items with on click.
 * [WooCommerce Global Price Options](https://wordpress.org/plugins/atr-woo-global-price-options/) - Add global price options by category to WooCommerce products. 
 * [Jet Integration for WooCommerce](https://wordpress.org/plugins/woo-jet-integration/) - JET Integration Plugin, a complete solution for integrating your online store with Jet.com.
+* [Negotiabl for WooCommerce](https://wordpress.org/plugins/negotiabl-woocommerce-extension/) - Sparking instant negotiations over Facebook Messenger.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
