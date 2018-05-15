@@ -217,6 +217,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Jet Integration for WooCommerce](https://wordpress.org/plugins/woo-jet-integration/) - JET Integration Plugin, a complete solution for integrating your online store with Jet.com.
 * [Negotiabl for WooCommerce](https://wordpress.org/plugins/negotiabl-woocommerce-extension/) - Sparking instant negotiations over Facebook Messenger.
 * [Sales Notifications for WooCommerce](https://wordpress.org/plugins/sales-notifications-for-woocommerce/) - Increase store trust with social proof to build credibility.
+* [Manual Reviews for WooCommerce](https://wordpress.org/plugins/manual-reviews-for-woocommerce/) - A simple and easy way to add products reviews from your WordPress dashboard.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
