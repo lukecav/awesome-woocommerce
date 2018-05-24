@@ -218,6 +218,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Negotiabl for WooCommerce](https://wordpress.org/plugins/negotiabl-woocommerce-extension/) - Sparking instant negotiations over Facebook Messenger.
 * [Sales Notifications for WooCommerce](https://wordpress.org/plugins/sales-notifications-for-woocommerce/) - Increase store trust with social proof to build credibility.
 * [Manual Reviews for WooCommerce](https://wordpress.org/plugins/manual-reviews-for-woocommerce/) - A simple and easy way to add products reviews from your WordPress dashboard.
+* [WooCommerce Reviews Admin Sidebar](https://github.com/norcross/woo-reviews-admin-menu) - Adds a dedicated menu item to look at reviews.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
