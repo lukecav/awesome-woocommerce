@@ -219,11 +219,6 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Sales Notifications for WooCommerce](https://wordpress.org/plugins/sales-notifications-for-woocommerce/) - Increase store trust with social proof to build credibility.
 * [Manual Reviews for WooCommerce](https://wordpress.org/plugins/manual-reviews-for-woocommerce/) - A simple and easy way to add products reviews from your WordPress dashboard.
 * [WooCommerce Reviews Admin Sidebar](https://github.com/norcross/woo-reviews-admin-menu) - Adds a dedicated menu item to look at reviews.
-
-## WooCommerce Code Snippets
-* [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
-* [General Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/general-snippets/) -  General code snippets.
-* [Theming Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/snippets-theming/) -  Theming related code snippets.
 * [WooCommerce Max Quantity](https://wordpress.org/plugins/woocommerce-max-quantity/) -  Set a limit for the max quantity of products that can be added to cart, per product. Now with individual product limits.
 * [WooCommerce Move Reviews](https://wordpress.org/plugins/woocommerce-move-reviews/) -  Allows you to easily move reviews from one product to another.
 * [Multiple Packages for WooCommerce](https://wordpress.org/plugins/multiple-packages-for-woocommerce/) -  A simple UI to take advatage of multiple shipping packages without PHP knowledge.
@@ -233,6 +228,12 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Invoicing Payments w/ Sprout Invoices](https://wordpress.org/plugins/woo-invoicing-payments-w-sprout-invoices/) -  A Sprout Invoices payment integration with WooCommerce checkout.
 * [Quantities and Units for WooCommerce](https://wordpress.org/plugins/quantities-and-units-for-woocommerce/) -  Easily require your customers to buy a minimum / maximum / incremental amount of products to continue with their checkout.
 * [Order Hours Scheduler for WooCommerce](https://wordpress.org/plugins/order-hours-scheduler-for-woocommerce/) -  Create Custom Schedules to Automatically Enable & Disable WooCommerce Customer Checkout Functionality.
+* [SEON – Fraud Prevention](https://wordpress.org/plugins/seon-fraud/) -  SEON API Fraud.
+
+## WooCommerce Code Snippets
+* [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
+* [General Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/general-snippets/) -  General code snippets.
+* [Theming Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/snippets-theming/) -  Theming related code snippets.
 
 ## Gist links for WooCommerce
 * [Mike Jolley](https://gist.github.com/mikejolley)
