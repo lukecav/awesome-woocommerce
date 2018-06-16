@@ -231,6 +231,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [SEON – Fraud Prevention](https://wordpress.org/plugins/seon-fraud/) -  SEON API Fraud.
 * [WooCommerce GDPR User Opt Ins](https://github.com/liquidweb/lw-woo-gdpr-user-optins) -  A toolset to allow WooCommerce store owners to create and manage user opt-in data.
 * [Hello Event](https://wordpress.org/plugins/hello-event/) -  Manage events and sell tickets with WooCommerce as easy as Hello World.
+* [WooCommerce Notification](https://wordpress.org/plugins/woo-notification/) -  Increase conversion rate by highlighting other customers that have bought products.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
