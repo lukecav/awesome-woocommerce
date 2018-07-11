@@ -235,6 +235,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Subscriptions for WooCommerce](https://wordpress.org/plugins/xa-woocommerce-subscriptions/) -  Sell products with recurring payments in your WooCommerce Store.
 * [Mail Debug for WooCommerce](https://wordpress.org/plugins/mail-debug-for-woocommerce/) -  Mail Debug for WooCommerce allows you to debug WordPress and WooCommerce emails.
 * [Conversio for WooCommerce](https://wordpress.org/plugins/receiptful-for-woocommerce/) -  Conversio is the all-in-one marketing dashboard for your WooCommerce store.
+* [Feedo](https://wordpress.org/plugins/feedo/) -  Feedo Plugin for Wordpress WooCommerce products.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
