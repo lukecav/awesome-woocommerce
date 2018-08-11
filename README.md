@@ -238,6 +238,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Feedo](https://wordpress.org/plugins/feedo/) -  Feedo Plugin for Wordpress WooCommerce products.
 * [WooCommerce Variation Image Gallery](https://wordpress.org/plugins/woo-variation-gallery/) -  Allows to insert multiple images for per variation to let visitors to see a different images when WooCommerce product variations are switched.
 * [WooCommerce Smooth Generator](https://github.com/woocommerce/wc-smooth-generator) -  A smooth customer, order and product generator for WooCommerce.
+* [Recurring Bookings for WooCommerce](https://wordpress.org/plugins/recurring-bookings-for-woocommerce/) -  Recurring Bookings for WooCommerce - works with WooCommerce Bookings to create repeated bookings.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
