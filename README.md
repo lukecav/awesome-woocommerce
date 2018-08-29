@@ -240,6 +240,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Smooth Generator](https://github.com/woocommerce/wc-smooth-generator) -  A smooth customer, order and product generator for WooCommerce.
 * [Recurring Bookings for WooCommerce](https://wordpress.org/plugins/recurring-bookings-for-woocommerce/) -  Recurring Bookings for WooCommerce - works with WooCommerce Bookings to create repeated bookings.
 * [WooCommcerce checkout product quantity change](https://wordpress.org/plugins/wc-checkout-product-quantity-change/) -  This plugin will allow user to change product quantity on checkout field. 
+* [Popup Notices for WooCommerce](https://wordpress.org/plugins/popup-notices-for-woocommerce/) -  Turn your WooCommerce Notices into Popups.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
