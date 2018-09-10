@@ -241,6 +241,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Recurring Bookings for WooCommerce](https://wordpress.org/plugins/recurring-bookings-for-woocommerce/) -  Recurring Bookings for WooCommerce - works with WooCommerce Bookings to create repeated bookings.
 * [WooCommcerce checkout product quantity change](https://wordpress.org/plugins/wc-checkout-product-quantity-change/) -  This plugin will allow user to change product quantity on checkout field. 
 * [Popup Notices for WooCommerce](https://wordpress.org/plugins/popup-notices-for-woocommerce/) -  Turn your WooCommerce Notices into Popups.
+* [Automatic Expiration for Categories](https://wordpress.org/plugins/categories-expiration-date/) -  Set an expiration date for certain categories.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
