@@ -242,7 +242,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommcerce checkout product quantity change](https://wordpress.org/plugins/wc-checkout-product-quantity-change/) -  This plugin will allow user to change product quantity on checkout field. 
 * [Popup Notices for WooCommerce](https://wordpress.org/plugins/popup-notices-for-woocommerce/) -  Turn your WooCommerce Notices into Popups.
 * [Automatic Expiration for Categories](https://wordpress.org/plugins/categories-expiration-date/) -  Set an expiration date for certain categories.
-* [WooCommerce Cart Expiration](https://github.com/liquidweb/woo-cart-expiration) -  Set a time limit on a customer checking out.
+* [WooCommerce Cart Expiration](https://wordpress.org/plugins/woo-cart-expiration/) -  Set a time limit on a customer checking out.
 * [WooCommerce Stock Synchronization](https://github.com/pronamic/wp-woocommerce-stock-synchronization) -  Synchronizes stock with sites that are connected to one another, using WooCommerce Stock Synchronization.
 * [WooCommerce Interest In Products](https://github.com/liquidweb/woo-interest-in-products) -  Allow customers to opt-in to notices about individual products.
 
