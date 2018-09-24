@@ -245,7 +245,8 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Cart Expiration](https://wordpress.org/plugins/woo-cart-expiration/) -  Set a time limit on a customer checking out.
 * [WooCommerce Stock Synchronization](https://github.com/pronamic/wp-woocommerce-stock-synchronization) -  Synchronizes stock with sites that are connected to one another, using WooCommerce Stock Synchronization.
 * [WooCommerce Interest In Products](https://wordpress.org/plugins/woo-interest-in-products/) -  Allow customers to opt-in to notices about individual products.
-* [WooCommerce Birthday Discount Vouchers](https://wordpress.org/plugins/birthday-discount-vouchers/) -  This plugin allows you to send discount vouchers to your customers on their birthday.
+* [WooCommerce Birthday Discount Vouchers](https://wordpress.org/plugins/birthday-discount-vouchers/) -  This plugin allows you to send discount vouchers to your customers on their birthday
+* [Woo Benchmark Email](https://wordpress.org/plugins/woo-benchmark-email/) -  Connects WooCommerce with Benchmark Email for syncing customers and abandoned carts.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
