@@ -247,6 +247,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Interest In Products](https://wordpress.org/plugins/woo-interest-in-products/) -  Allow customers to opt-in to notices about individual products.
 * [WooCommerce Birthday Discount Vouchers](https://wordpress.org/plugins/birthday-discount-vouchers/) -  This plugin allows you to send discount vouchers to your customers on their birthday
 * [Woo Benchmark Email](https://wordpress.org/plugins/woo-benchmark-email/) -  Connects WooCommerce with Benchmark Email for syncing customers and abandoned carts.
+* [WooCommerce Shop Manager Admin Bar](https://wordpress.org/plugins/woo-shop-manager-admin-bar/) -  This plugin adds useful admin links and resources for the WooCommerce Shop Plugin to the WordPress Toolbar / Admin Bar.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
