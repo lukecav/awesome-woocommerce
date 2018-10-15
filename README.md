@@ -251,6 +251,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Repeat Order For Woocommerce](https://wordpress.org/plugins/repeat-order-for-woocommerce/) -  Add an "order again" button in Recent Orders list.
 * [WooCommerce Schedule Stock Manager](https://wordpress.org/plugins/woo-schedule-stock-manager/) -  This Plugin provide you options to manage the stock quantity automatic increase throughout daily, weekly, monthly, hourly and yearly schedule type options of all your woocommerce products.
 * [WooCommerce Ajax Login/Register](https://wordpress.org/plugins/woo-ajax-loginregister/) -  Woocommerce Ajax login/register (addon / plugin) is allows you to login and register using Ajax and add jquery validation.
+* [Cart links for WooCommerce](https://wordpress.org/plugins/soft79-cart-links-for-woocommerce/) -  Create links that will populate a cart.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
