@@ -255,6 +255,10 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Email Order Digest](https://wordpress.org/plugins/woo-email-orders/) -  Sends out a daily digest of orders placed through WooCommerce.
 * [WooCommerce Advanced Shipment Tracking](https://wordpress.org/plugins/woo-advanced-shipment-tracking/) -  Add shipment tracking information to your WooCommerce orders and provide customers with an easy way to track their orders. Shipment tracking Info will appear in customers accounts (in the order panel) and in WooCommerce order complete email. 
 
+## Action Scheduler
+* [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
+* [Action Scheduler - Disable WP Cron Queue Runner](https://github.com/Prospress/action-scheduler-disable-default-runner/) -  Disable Action Scheduler's default queue runner, by removing it from the WP-Cron hook.
+
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
 * [General Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/general-snippets/) -  General code snippets.
