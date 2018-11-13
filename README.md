@@ -3,6 +3,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Table Of Contents
 * [Handy Code Snippets and Plugins](#handy-code-snippets-and-plugins)
+* [Action Scheduler](#action-scheduler)
 * [WooCommerce Code Snippets](#woocommerce-code-snippets)
 * [Gist links for WooCommerce](#gist-links-for-woocommerce)
 * [Search Plugins](#search-plugins)
