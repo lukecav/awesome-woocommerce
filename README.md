@@ -255,6 +255,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Cart links for WooCommerce](https://wordpress.org/plugins/soft79-cart-links-for-woocommerce/) -  Create links that will populate a cart.
 * [WooCommerce Email Order Digest](https://wordpress.org/plugins/woo-email-orders/) -  Sends out a daily digest of orders placed through WooCommerce.
 * [WooCommerce Advanced Shipment Tracking](https://wordpress.org/plugins/woo-advanced-shipment-tracking/) -  Add shipment tracking information to your WooCommerce orders and provide customers with an easy way to track their orders. Shipment tracking Info will appear in customers accounts (in the order panel) and in WooCommerce order complete email. 
+* [Smart Image Resize for WooCommerce](https://wordpress.org/plugins/smart-image-resize/) -  Prevent an image from being cutt-off to perfecly fit your website design while preserving the aspect-ratio.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
