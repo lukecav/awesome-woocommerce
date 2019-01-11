@@ -261,6 +261,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Smaily for WooCommerce](https://wordpress.org/plugins/smaily-for-woocommerce/) -  Smaily email marketing and automation extension plugin for WooCommerce (set up opt-in form, client sync and output RSS-feed) for easy product import into template.
 * [Bolt Checkout for WooCommerce](https://wordpress.org/plugins/bolt-checkout-woocommerce/) -  Adds Bolt Checkout for WooCommerce.
 * [Nth Order Discount for WooCommerce](https://wordpress.org/plugins/nth-order-discount-for-woocommerce/) -  Automatic discounts after every nth order.
+* [WooCommerce Sales Report By Country](https://wordpress.org/plugins/woo-sales-by-country-reports/) -  This plugin simply adds a report tab to display sales report by country WooCommerce Reports. The plugin adds an additional report tab which display sales report by country. You will find this report available in WooCommerce reports section.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
