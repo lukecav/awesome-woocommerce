@@ -264,6 +264,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Sales Report By Country](https://wordpress.org/plugins/woo-sales-by-country-reports/) -  This plugin simply adds a report tab to display sales report by country WooCommerce Reports. The plugin adds an additional report tab which display sales report by country. You will find this report available in WooCommerce reports section.
 * [Perfect WooCommerce Brands](https://wordpress.org/plugins/perfect-woocommerce-brands/) -  Perfect WooCommerce Brands allows you to show product brands in your WooCommerce based store.
 * [Premmerce WooCommerce Variation Swatches](https://wordpress.org/plugins/premmerce-woocommerce-variation-swatches/) -  This plugin flexibly extends standard features of the WooCommerce attributes and variations.
+* [Shipping Zones by Drawing for WooCommerce](https://wordpress.org/plugins/shipping-zones-by-drawing-for-woocommerce/) -  Define your WooCommerce shipping zones by drawing them on a map.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
