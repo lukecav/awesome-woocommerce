@@ -265,6 +265,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Perfect WooCommerce Brands](https://wordpress.org/plugins/perfect-woocommerce-brands/) -  Perfect WooCommerce Brands allows you to show product brands in your WooCommerce based store.
 * [Premmerce WooCommerce Variation Swatches](https://wordpress.org/plugins/premmerce-woocommerce-variation-swatches/) -  This plugin flexibly extends standard features of the WooCommerce attributes and variations.
 * [Shipping Zones by Drawing for WooCommerce](https://wordpress.org/plugins/shipping-zones-by-drawing-for-woocommerce/) -  Define your WooCommerce shipping zones by drawing them on a map.
+* [Facebook for WooCommerce](https://wordpress.org/plugins/facebook-for-woocommerce/) -  Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
