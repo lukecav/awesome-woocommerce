@@ -267,6 +267,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Shipping Zones by Drawing for WooCommerce](https://wordpress.org/plugins/shipping-zones-by-drawing-for-woocommerce/) -  Define your WooCommerce shipping zones by drawing them on a map.
 * [Facebook for WooCommerce](https://wordpress.org/plugins/facebook-for-woocommerce/) -  Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook.
 * [WooCommerce Checkout Field Manager](https://wordpress.org/plugins/n-media-woocommerce-checkout-fields/) -  Checkout Fields Manager plugin allow to manage fields on Checkout page. Billing, Shipping, Extra fields etc.
+* [WooCommerce Bulk Order](https://wordpress.org/plugins/woo-bulk-order/) -  Woocommerce Bulk Order allows your customers to order multiple products on single page.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
