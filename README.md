@@ -268,6 +268,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Checkout Field Manager](https://wordpress.org/plugins/n-media-woocommerce-checkout-fields/) -  Checkout Fields Manager plugin allow to manage fields on Checkout page. Billing, Shipping, Extra fields etc.
 * [WooCommerce Bulk Order](https://wordpress.org/plugins/woo-bulk-order/) -  Woocommerce Bulk Order allows your customers to order multiple products on single page.
 * [Better Reviews For WooCommerce](https://github.com/liquidweb/woo-better-reviews) -  Like reviews, only way better.
+* [AutomateWoo - Subscriptions Add-on](https://github.com/Prospress/automatewoo-subscriptions/) -  Advanced actions for automating a subscription's lifecycle with AutomateWoo.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
