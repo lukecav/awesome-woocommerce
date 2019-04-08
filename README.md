@@ -267,7 +267,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Facebook for WooCommerce](https://wordpress.org/plugins/facebook-for-woocommerce/) -  Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook.
 * [WooCommerce Checkout Field Manager](https://wordpress.org/plugins/n-media-woocommerce-checkout-fields/) -  Checkout Fields Manager plugin allow to manage fields on Checkout page. Billing, Shipping, Extra fields etc.
 * [WooCommerce Bulk Order](https://wordpress.org/plugins/woo-bulk-order/) -  Woocommerce Bulk Order allows your customers to order multiple products on single page.
-* [Better Reviews For WooCommerce](https://github.com/liquidweb/woo-better-reviews) -  Like reviews, only way better.
+* [Better Reviews For WooCommerce](https://wordpress.org/plugins/better-reviews-for-woocommerce/) -  Like reviews, only way better.
 * [AutomateWoo - Subscriptions Add-on](https://github.com/Prospress/automatewoo-subscriptions/) -  Advanced actions for automating a subscription's lifecycle with AutomateWoo.
 
 ## Action Scheduler
