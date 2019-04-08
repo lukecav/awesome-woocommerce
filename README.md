@@ -269,6 +269,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Bulk Order](https://wordpress.org/plugins/woo-bulk-order/) -  Woocommerce Bulk Order allows your customers to order multiple products on single page.
 * [Better Reviews For WooCommerce](https://wordpress.org/plugins/better-reviews-for-woocommerce/) -  Like reviews, only way better.
 * [AutomateWoo - Subscriptions Add-on](https://github.com/Prospress/automatewoo-subscriptions/) -  Advanced actions for automating a subscription's lifecycle with AutomateWoo.
+* [Woomotiv](https://wordpress.org/plugins/woomotiv/) -  Powerful and easy to use Woocommerce Plugin that leverages social proof to increase your conversions.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
