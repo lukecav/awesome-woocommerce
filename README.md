@@ -270,6 +270,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Better Reviews For WooCommerce](https://wordpress.org/plugins/better-reviews-for-woocommerce/) -  Like reviews, only way better.
 * [AutomateWoo - Subscriptions Add-on](https://github.com/Prospress/automatewoo-subscriptions/) -  Advanced actions for automating a subscription's lifecycle with AutomateWoo.
 * [Woomotiv](https://wordpress.org/plugins/woomotiv/) -  Powerful and easy to use Woocommerce Plugin that leverages social proof to increase your conversions.
+* [Video Tab For WooCommerce](https://wordpress.org/plugins/video-tab-for-woocommerce/) -  Video Tab For WooCommerce.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
