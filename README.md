@@ -276,6 +276,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
 * [Action Scheduler - Disable WP Cron Queue Runner](https://github.com/Prospress/action-scheduler-disable-default-runner/) -  Disable Action Scheduler's default queue runner, by removing it from the WP-Cron hook.
 
+
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
 * [General Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/general-snippets/) -  General code snippets.
@@ -322,4 +323,6 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 ## Performance
 * [Slow WooCommerce with Many Products](http://www.danielauener.com/slow-woocommerce-many-products/) - WooCommerce is the most used webshop system in the world and its  awesome! However, using WordPress as its application framework has some drawbacks.
 * [WooCommerce with Thousands of Products: Workarounds for Slow Admin Panel](http://www.danielauener.com/woocommerce-with-thousands-of-products-workarounds-for-slow-admin-panel/) - It’s the WordPress plugin for webshops, without a question. For a shop that is not running WooCommerce with thousands of products, it has a very nice performance, too. However there are limitations and drawbacks running WooCommerce with many products.
+* [WP Static Menus](https://github.com/liquidweb/wp-static-menus) - Navigation rarely changes on most WordPress sites, why dynamically regenerate it every time? This plugin will store WordPress navigation menus as static HTML, even the really large ones.
+
 
