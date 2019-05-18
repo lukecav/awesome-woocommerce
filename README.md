@@ -271,6 +271,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [AutomateWoo - Subscriptions Add-on](https://github.com/Prospress/automatewoo-subscriptions/) -  Advanced actions for automating a subscription's lifecycle with AutomateWoo.
 * [Woomotiv](https://wordpress.org/plugins/woomotiv/) -  Powerful and easy to use Woocommerce Plugin that leverages social proof to increase your conversions.
 * [WooCommerce Return and Warranty Management System](https://wordpress.org/plugins/wc-return-warrranty/) -  An extension for manage return and warranty system for WooCommerce shop.
+* [Retainful – WooCommerce Abandoned Cart Recovery Emails and Next Order Coupons](https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/) -  Drive repeat purchases by sending single-use, unique coupon codes to customers for their next purchase.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
