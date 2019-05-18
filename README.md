@@ -270,8 +270,6 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Better Reviews For WooCommerce](https://wordpress.org/plugins/better-reviews-for-woocommerce/) -  Like reviews, only way better.
 * [AutomateWoo - Subscriptions Add-on](https://github.com/Prospress/automatewoo-subscriptions/) -  Advanced actions for automating a subscription's lifecycle with AutomateWoo.
 * [Woomotiv](https://wordpress.org/plugins/woomotiv/) -  Powerful and easy to use Woocommerce Plugin that leverages social proof to increase your conversions.
-* [Video Tab For WooCommerce](https://wordpress.org/plugins/video-tab-for-woocommerce/) -  Video Tab For WooCommerce.
-* [Coupon By Roles For WooCommerce](https://wordpress.org/plugins/coupon-by-roles-for-woocommerce/) -  This plugin allows admin to set coupons by user roles.
 * [WooCommerce Return and Warranty Management System](https://wordpress.org/plugins/wc-return-warrranty/) -  An extension for manage return and warranty system for WooCommerce shop.
 
 ## Action Scheduler
