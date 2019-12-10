@@ -272,6 +272,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Return and Warranty Management System](https://wordpress.org/plugins/wc-return-warrranty/) -  An extension for manage return and warranty system for WooCommerce shop.
 * [Retainful – WooCommerce Abandoned Cart Recovery Emails and Next Order Coupons](https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/) -  Drive repeat purchases by sending single-use, unique coupon codes to customers for their next purchase.
 * [Smart Variations Images for WooCommerce](https://wordpress.org/plugins/smart-variations-images/) -  This is a WooCommerce extension plugin, that allows the user to add any number of images to the product images gallery and be used as variable product variations images in a very simple and quick way, without having to insert images p/variation.
+* [Simple Cart](https://wordpress.org/plugins/simple-cart-solution/) -  A Cart solution to provide a better user purchasing experience.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
