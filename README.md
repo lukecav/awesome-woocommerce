@@ -275,6 +275,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Simple Cart](https://wordpress.org/plugins/simple-cart-solution/) -  A Cart solution to provide a better user purchasing experience.
 * [Price Drop Alert for WooCommerce](https://wordpress.org/plugins/woo-price-drop-alert/) -  User will notify via email if user's selected product price get down by current price.
 * [Simple Linked Variations for WooCommerce](https://wordpress.org/plugins/simple-linked-variations-for-woocommerce/) -  An add-on plugin for WooCommerce which allows variations to be linked together, and will then toggle dropdowns on the front end based on the links made.
+* [Conditional Add To Cart for WooCommerce](https://wordpress.org/plugins/conditional-add-to-cart/) -  Conditionally disable, customize, or replace "Add to Cart" button for WooCommerce.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
