@@ -278,6 +278,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Conditional Add To Cart for WooCommerce](https://wordpress.org/plugins/conditional-add-to-cart/) -  Conditionally disable, customize, or replace "Add to Cart" button for WooCommerce.
 * [Drip for WooCommerce](https://wordpress.org/plugins/drip/) -  A WordPress plugin to connect to Drip's WooCommerce integration.
 * [Marketing Tools for WooCommerce](https://wordpress.org/plugins/devman-marketing-tools/) -  The perfect "All in One". Discover the most complete Google Tag Manager extension on WooCommerce.
+* [Disable Dashboard for WooCommerce](https://wordpress.org/plugins/disable-dashboard-for-woocommerce/) -  Disables new WooCommerce Dashboard introduced in WooCommerce 4.0. Simply activate the plugin and disable whole Analytics section. No configuration needed.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
