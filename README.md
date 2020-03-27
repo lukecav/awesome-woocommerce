@@ -280,6 +280,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Marketing Tools for WooCommerce](https://wordpress.org/plugins/devman-marketing-tools/) -  The perfect "All in One". Discover the most complete Google Tag Manager extension on WooCommerce.
 * [Disable Dashboard for WooCommerce](https://wordpress.org/plugins/disable-dashboard-for-woocommerce/) -  Disables new WooCommerce Dashboard introduced in WooCommerce 4.0. Simply activate the plugin and disable whole Analytics section. No configuration needed.
 * [Gift Up! Gift Cards for WordPress and WooCommerce](https://wordpress.org/plugins/gift-up/) -   The simplest way to sell your own gift cards/certificates/vouchers from inside your WordPress website easily with no monthly fee. Redeemable in your WooCommerce shopping cart.
+* [Limit Orders for WooCommerce](https://wordpress.org/plugins/limit-orders/) -   Automatically disable WooCommerce's checkout process after reaching a maximum number of orders.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
