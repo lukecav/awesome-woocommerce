@@ -282,6 +282,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Gift Up! Gift Cards for WordPress and WooCommerce](https://wordpress.org/plugins/gift-up/) -   The simplest way to sell your own gift cards/certificates/vouchers from inside your WordPress website easily with no monthly fee. Redeemable in your WooCommerce shopping cart.
 * [Limit Orders for WooCommerce](https://wordpress.org/plugins/limit-orders/) -   Automatically disable WooCommerce's checkout process after reaching a maximum number of orders.
 * [WooCommerce Payments](https://wordpress.org/plugins/woocommerce-payments/) -   Accept payments via credit card. Manage transactions within WordPress. Beta.
+* [Leave At Door For WooCommerce](https://wordpress.org/plugins/leave-at-door-for-woocommerce/) -   Let customers request that a delivery is left at the door.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
