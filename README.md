@@ -283,6 +283,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Limit Orders for WooCommerce](https://wordpress.org/plugins/limit-orders/) -   Automatically disable WooCommerce's checkout process after reaching a maximum number of orders.
 * [WooCommerce Payments](https://wordpress.org/plugins/woocommerce-payments/) -   Accept payments via credit card. Manage transactions within WordPress. Beta.
 * [Leave At Door For WooCommerce](https://wordpress.org/plugins/leave-at-door-for-woocommerce/) -   Let customers request that a delivery is left at the door.
+* [HubSpot for WooCommerce](https://wordpress.org/plugins/makewebbetter-hubspot-for-woocommerce/) -   Integrate WooCommerce with HubSpots free CRM, abandoned cart tracking, email marketing, marketing automation, analytics & more.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
