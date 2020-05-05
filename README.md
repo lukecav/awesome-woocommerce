@@ -332,7 +332,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [FacetWP - Bookings Integration](https://github.com/FacetWP/facetwp-bookings) - WooCommerce Bookings support.
 
 ## Google Analytics
-* [How To Track Shopping Cart Abandonment in Google Analytics](http://blog.lemonstand.com/cart-abandonment-google-analytics/) - We have all heard the statistics; about 70% of your customers are abandoning your shopping cart without actually making a purchase.
+* [Tracking Shopping Cart Abandonment in Google Analytics](https://ecommercecosmos.com/tracking-cart-abandonment-in-google-analytics/) - We have all heard the statistics; about 70% of your customers are abandoning your shopping cart without actually making a purchase.
 
 ## Performance
 * [Slow WooCommerce with Many Products](http://www.danielauener.com/slow-woocommerce-many-products/) - WooCommerce is the most used webshop system in the world and its  awesome! However, using WordPress as its application framework has some drawbacks.
