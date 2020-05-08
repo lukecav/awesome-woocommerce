@@ -285,6 +285,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Payments](https://wordpress.org/plugins/woocommerce-payments/) -   Accept payments via credit card. Manage transactions within WordPress. Beta.
 * [Leave At Door For WooCommerce](https://wordpress.org/plugins/leave-at-door-for-woocommerce/) -   Let customers request that a delivery is left at the door.
 * [HubSpot for WooCommerce](https://wordpress.org/plugins/makewebbetter-hubspot-for-woocommerce/) -   Integrate WooCommerce with HubSpots free CRM, abandoned cart tracking, email marketing, marketing automation, analytics & more.
+* [Minimum Order Amount for Checkout](https://wordpress.org/plugins/minimum-order-amount-for-checkout/) -   Set a minimum order amount for Woocommerce orders.  Shows a notice in cart and validates at checkout before order can be placed.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
