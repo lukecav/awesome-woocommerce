@@ -288,6 +288,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Minimum Order Amount for Checkout](https://wordpress.org/plugins/minimum-order-amount-for-checkout/) -   Set a minimum order amount for Woocommerce orders.  Shows a notice in cart and validates at checkout before order can be placed.
 * [WooCommerce Coupons by Advanced Coupons](https://wordpress.org/plugins/advanced-coupons-for-woocommerce-free/) -   Advanced Coupons for WooCommerce (Free Version) gives WooCommerce store owners extra coupon features so they can market their stores better.
 * [Platform.ly for WooCommerce](https://wordpress.org/plugins/platformly-for-woocommerce/) -   Easily connect WooCommerce to your Platformly CRM, set up abandoned cart campaigns and access detailed customer reporting: lifetime value and more.
+* [Manual Related Products for WooCommerce](https://wordpress.org/plugins/manual-related-products-for-woo/) -   Allows you to choose a manual set of products for display under the Related Products section on WooCommerce single product pages.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
