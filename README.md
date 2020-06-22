@@ -292,6 +292,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Delete product images for WooCommerce](https://wordpress.org/plugins/wc-delete-product-images/) -   Removes product assigned images (featured and gallery only) on product delete.
 * [Checkout Manager for WooCommerce](https://wordpress.org/plugins/woocommerce-checkout-manager/) -   Manages WooCommerce Checkout, the advanced way.
 * [Woo Custom Stock Status](https://wordpress.org/plugins/woo-custom-stock-status/) -   Write the custom stock status with different colors for each woocommerce product, to show in product details and listing pages.
+* [Product image Lazy Loader for WooCommerce](https://wordpress.org/plugins/wc-products-lazy-loader/) -   This plugin lazy loads your WooCommerce product images on the shop and archive pages.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
