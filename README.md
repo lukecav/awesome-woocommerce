@@ -294,7 +294,8 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Woo Custom Stock Status](https://wordpress.org/plugins/woo-custom-stock-status/) -   Write the custom stock status with different colors for each woocommerce product, to show in product details and listing pages.
 * [Product image Lazy Loader for WooCommerce](https://wordpress.org/plugins/wc-products-lazy-loader/) -   This plugin lazy loads your WooCommerce product images on the shop and archive pages.
 * [Recapture for WooCommerce](https://wordpress.org/plugins/recapture-for-woocommerce/) -   Recapture helps you increase revenue by automatically recovering abandoned carts.
-* [Easyship WooCommerce Shipping Rates](https://wordpress.org/plugins/easyship-woocommerce-shipping-rates/) -   Easyship plugin for easy shipping method.
+* [Easyship WooCommerce Shipping Rates](https://wordpress.org/plugins/easyship-woocommerce-shipping-rates/) -   Easyship plugin for easy shipping method.\
+* [TCP Clean Coupons](https://wordpress.org/plugins/tcp-clean-coupons/) -   TCP Clean Coupons is a plugin to clean up expired coupons from Woocommerce. This allows you to free up space and unclutter your coupon list.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
