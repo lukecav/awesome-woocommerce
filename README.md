@@ -296,6 +296,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Recapture for WooCommerce](https://wordpress.org/plugins/recapture-for-woocommerce/) -   Recapture helps you increase revenue by automatically recovering abandoned carts.
 * [Easyship WooCommerce Shipping Rates](https://wordpress.org/plugins/easyship-woocommerce-shipping-rates/) -   Easyship plugin for easy shipping method.\
 * [TCP Clean Coupons](https://wordpress.org/plugins/tcp-clean-coupons/) -   TCP Clean Coupons is a plugin to clean up expired coupons from Woocommerce. This allows you to free up space and unclutter your coupon list.
+* [Sequential Order Numbers for WooCommerce](https://wordpress.org/plugins/sequential-order-numbers-for-woocommerce/) -   Manage WooCommerce order numbers. Make them follow your site logic.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
