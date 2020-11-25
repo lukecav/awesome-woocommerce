@@ -299,6 +299,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Sequential Order Numbers for WooCommerce](https://wordpress.org/plugins/sequential-order-numbers-for-woocommerce/) -   Manage WooCommerce order numbers. Make them follow your site logic.
 * [Woo Manage Fraud Orders](https://wordpress.org/plugins/woo-manage-fraud-orders/) -   WooCommerce plugin to manage the fraud orders by blackilisting the customer's details.
 * [Paysley](https://wordpress.org/plugins/paysley/) -   Receive payments using Paysley.
+* [Invoice Gateway For WooCommerce](https://wordpress.org/plugins/invoice-gateway-for-woocommerce/) -   Provides an invoice gateway for WooCommerce so your customers can check out without immediate payment.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
