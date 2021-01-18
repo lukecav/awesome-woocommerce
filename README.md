@@ -302,6 +302,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Invoice Gateway For WooCommerce](https://wordpress.org/plugins/invoice-gateway-for-woocommerce/) -   Provides an invoice gateway for WooCommerce so your customers can check out without immediate payment.
 * [Oliver POS – Points and Rewards for WooCommerce](https://wordpress.org/plugins/oliver-pos-points-and-rewards/) -   Oliver POS extension plugin for Woocommerce Points and Rewards.
 * [Leo Product Recommendations for WooCommerce](https://wordpress.org/plugins/leo-product-recommendations/) -   Recommend products smartly for boosting WooCommerce sales by nice-looking add to cart popup.
+* [Ajax Search for WooCommerce](https://wordpress.org/plugins/ajax-search-for-woocommerce/) -   The most popular WooCommerce product search. Gives your users a well-designed advanced AJAX search bar with live search suggestions.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
