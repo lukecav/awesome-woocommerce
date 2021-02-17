@@ -308,6 +308,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [CartPops – High Converting Add To Cart Popup For WooCommerce](https://wordpress.org/plugins/cartpops/) -   This plugin allows you to show an elegant drawer/side cart each time a new product is added to the cart.
 * [Customer verification for WooCommerce](https://wordpress.org/plugins/customer-email-verification-for-woocommerce/) -   The Customer verification helps WooCommerce store owners to reduce registration spam by requiring customers to verify their email address when they register an account on your store, before they can access their account area.
 * [WOWRestro](https://wordpress.org/plugins/wowrestro/) -   WOWRestro is an Ordering system for WooCommerce.
+* [Easy Email Checkout](https://wordpress.org/plugins/easy-email-checkout/) -   Make the email field in checkout process easier for your customers by suggest autocomplete email services.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
