@@ -311,6 +311,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Easy Email Checkout](https://wordpress.org/plugins/easy-email-checkout/) -   Make the email field in checkout process easier for your customers by suggest autocomplete email services.
 * [Integration of Sendy with WooCommerce](https://wordpress.org/plugins/wc-sendy/) -   Add Customers to Sendy List from WooCommerce.
 * [Conditional Payment Gateways for WooCommerce](https://wordpress.org/plugins/conditional-payment-gateways-for-woocommerce/) -   Manage payment gateways in WooCommerce.
+* [Sender.net for WordPress](https://wordpress.org/plugins/sender-net-automated-emails/) -   Sender.net is an email marketing platform tailored for smaller businesses and e-commerce ventures.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
