@@ -312,6 +312,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Integration of Sendy with WooCommerce](https://wordpress.org/plugins/wc-sendy/) -   Add Customers to Sendy List from WooCommerce.
 * [Conditional Payment Gateways for WooCommerce](https://wordpress.org/plugins/conditional-payment-gateways-for-woocommerce/) -   Manage payment gateways in WooCommerce.
 * [Sender.net for WordPress](https://wordpress.org/plugins/sender-net-automated-emails/) -   Sender.net is an email marketing platform tailored for smaller businesses and e-commerce ventures.
+* [Tips, Gratuity, Donations & Fees For WooCommerce](https://wordpress.org/plugins/wc-tip-gratuity-donation-fee/) -   Toolkit for add tip amount during checkout.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
