@@ -313,6 +313,9 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Conditional Payment Gateways for WooCommerce](https://wordpress.org/plugins/conditional-payment-gateways-for-woocommerce/) -   Manage payment gateways in WooCommerce.
 * [Sender.net for WordPress](https://wordpress.org/plugins/sender-net-automated-emails/) -   Sender.net is an email marketing platform tailored for smaller businesses and e-commerce ventures.
 * [Tips, Gratuity, Donations & Fees For WooCommerce](https://wordpress.org/plugins/wc-tip-gratuity-donation-fee/) -   Toolkit for add tip amount during checkout.
+* [WPC Share Cart for WooCommerce](https://wordpress.org/plugins/wpc-share-cart/) -   WPC Share Cart is a simple but powerful tool that can help your customer share their cart.
+* [WPC Smart Quick View for WooCommerce](https://wordpress.org/plugins/woo-smart-quick-view/) -   WPC Smart Quick View allows users to get a quick look of products without opening the product page.
+* [WPC Fly Cart for WooCommerce](https://wordpress.org/plugins/woo-fly-cart/) -   WooCommerce interaction mini cart with many styles and effects.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
