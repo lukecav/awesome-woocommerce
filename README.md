@@ -319,6 +319,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Swiss Knife for WooCommerce](https://wordpress.org/plugins/swiss-knife-for-woocommerce/) -   A well crafted bundle of WooCommerce Utilities.
 * [Fast Checkout for WooCommerce](https://wordpress.org/plugins/fast-checkout-for-woocommerce/) -   Install the Checkout button that increases conversion, boosts sales and delights customers.
 * [Pending Payment Reminder for WooCommerce](https://wordpress.org/plugins/pending-payment-reminder-for-woocommerce/) -   List orders with pending payment status and send out a reminder email on a button click.
+* [PeachPay for WooCommerce](https://wordpress.org/plugins/peachpay-for-woocommerce/) -   PeachPay is the fastest checkout for WooCommerce.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
