@@ -322,6 +322,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [PeachPay for WooCommerce](https://wordpress.org/plugins/peachpay-for-woocommerce/) -   PeachPay is the fastest checkout for WooCommerce.
 * [WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels](https://wordpress.org/plugins/print-invoices-packing-slip-labels-for-woocommerce/) -   Prints Packing List, invoice, delivery note & shipping label.
 * [WooCommerce Zero Orders Alert](https://github.com/nexcess/woo-zero-orders-alert) -   Notify store owners when a store has no orders for the previous day.
+* [Multi-Step Checkout for WooCommerce](https://github.com/nexcess/woo-zero-orders-alert) -   Nice multi-step checkout for your WooCommerce store.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
