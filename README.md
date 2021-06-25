@@ -323,6 +323,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Zero Orders Alert](https://wordpress.org/plugins/zero-orders-alert-for-woocommerce/) -   Notify store owners when a store has no orders for the previous day.
 * [Multi-Step Checkout for WooCommerce](https://wordpress.org/plugins/wp-multi-step-checkout/) -   Nice multi-step checkout for your WooCommerce store.
 * [Editorify – Product Reviews For WooCommerce](https://wordpress.org/plugins/editorify/) -   Boost Your Sales By Adding Products Reviews, Videos & Images to your product page.
+* [Fluid Checkout for WooCommerce](https://wordpress.org/plugins/fluid-checkout/) -   Provides a Fluid Checkout experience for any WooCommerce store.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
