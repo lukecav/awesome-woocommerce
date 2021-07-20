@@ -324,6 +324,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Multi-Step Checkout for WooCommerce](https://wordpress.org/plugins/wp-multi-step-checkout/) -   Nice multi-step checkout for your WooCommerce store.
 * [Editorify – Product Reviews For WooCommerce](https://wordpress.org/plugins/editorify/) -   Boost Your Sales By Adding Products Reviews, Videos & Images to your product page.
 * [Fluid Checkout for WooCommerce](https://wordpress.org/plugins/fluid-checkout/) -   Provides a Fluid Checkout experience for any WooCommerce store.
+* [WPC Shop as a Customer for WooCommerce](https://wordpress.org/plugins/wpc-shop-as-customer/) -   WPC Shop as a Customer allows store administrators to login as a customer on the frontend.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
