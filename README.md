@@ -325,10 +325,11 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Editorify – Product Reviews For WooCommerce](https://wordpress.org/plugins/editorify/) -   Boost Your Sales By Adding Products Reviews, Videos & Images to your product page.
 * [Fluid Checkout for WooCommerce](https://wordpress.org/plugins/fluid-checkout/) -   Provides a Fluid Checkout experience for any WooCommerce store.
 * [WPC Shop as a Customer for WooCommerce](https://wordpress.org/plugins/wpc-shop-as-customer/) -   WPC Shop as a Customer allows store administrators to login as a customer on the frontend.
+* [MailerSend - Transactional emails for WooCommerce](https://wordpress.org/plugins/mailersend-transactional-emails-for-woocommerce/) -   Replace WooCommerce's standard transactional emails with your own custom templates, manage them in MailerSend and send them with our API.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
-* [Action Scheduler - Disable WP Cron Queue Runner](https://github.com/Prospress/action-scheduler-disable-default-runner/) -  Disable Action Scheduler's default queue runner, by removing it from the WP-Cron hook.
+* [Action Scheduler - Disable WP Cron Queue Runner](https://wordpress.org/plugins/mailersend-transactional-emails-for-woocommerce/) -  Disable Action Scheduler's default queue runner, by removing it from the WP-Cron hook.
 
 ## WooCommerce Code Snippets
 * [Frontend Snippets](https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/frontend-snippets/) -  Front-end code snippets.
