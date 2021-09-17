@@ -328,6 +328,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [MailerSend - Transactional emails for WooCommerce](https://wordpress.org/plugins/mailersend-transactional-emails-for-woocommerce/) -   Replace WooCommerce's standard transactional emails with your own custom templates, manage them in MailerSend and send them with our API.
 * [Amazon Payment Services](https://wordpress.org/plugins/amazon-payment-services/) -   Amazon payment services makes it really easy to start accepting online payments (credit & debit cards) in the Middle East.
 * [Easy Collect And Drop for WooCommerce](https://wordpress.org/plugins/easy-collect-and-drop/) -   Easy Collect And Drop shipping method plugin.
+* [Related Products for WooCommerce](https://wordpress.org/plugins/wt-woocommerce-related-products/) -   Displays custom related products on the basis of category/tags/products for your WooCommerce store.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
