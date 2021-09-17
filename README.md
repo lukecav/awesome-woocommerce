@@ -366,7 +366,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
 ## Search Plugins
 * [ElasticPress](https://wordpress.org/plugins/elasticpress/) - A fast and flexible search and query engine for WordPress.
-* [Search by Algolia](https://wordpress.org/plugins/search-by-algolia-instant-relevant-results/) - Search by Algolia is the smartest way to improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
+* [WP Search with Algolia](https://wordpress.org/plugins/wp-search-with-algolia/) - Integrate the powerful Algolia search service with WordPress.
 * [SearchWP](https://searchwp.com/) - Instantly improve your site search without writing a line of code.
 * [FacetWP](https://facetwp.com/) - Advanced Filtering for WordPress.
 * [Relevanssi](https://wordpress.org/plugins/relevanssi/) - This plugin replaces WordPress search with a relevance-sorting search.
