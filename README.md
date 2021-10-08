@@ -330,6 +330,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Related Products for WooCommerce](https://wordpress.org/plugins/wt-woocommerce-related-products/) -   Displays custom related products on the basis of category/tags/products for your WooCommerce store.
 * [Installment Plans for WooCommerce Subscriptions](https://github.com/stellarwp/installment-plans-for-woo-subs) -   Extend the Subscriptions plugin for WooCommerce to handle installments.
 * [Checkout Field Customizer](https://wordpress.org/plugins/checkout-field-customizer/) -   Customize your checkout fields easily.
+* [OpenPath for WooCommerce](https://wordpress.org/plugins/openpath-payment-gateway-for-woocommerce/) -   WooCommerce plugin for accepting payment through OpenPath.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
