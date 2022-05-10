@@ -256,7 +256,6 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Wishlist Plugin](https://wordpress.org/plugins/ti-woocommerce-wishlist/) -  Wishlist functionality for your WooCommerce store.
 * [CartFlows](https://wordpress.org/plugins/cartflows/) -  Create beautiful checkout pages & sales flows for WooCommerce.
 * [Smaily for WooCommerce](https://wordpress.org/plugins/smaily-for-woocommerce/) -  Smaily email marketing and automation extension plugin for WooCommerce (set up opt-in form, client sync and output RSS-feed) for easy product import into template.
-* [Bolt Checkout for WooCommerce](https://wordpress.org/plugins/bolt-checkout-woocommerce/) -  Adds Bolt Checkout for WooCommerce.
 * [Nth Order Discount for WooCommerce](https://wordpress.org/plugins/nth-order-discount-for-woocommerce/) -  Automatic discounts after every nth order.
 * [WooCommerce Sales Report By Country](https://wordpress.org/plugins/woo-sales-by-country-reports/) -  This plugin simply adds a report tab to display sales report by country WooCommerce Reports. The plugin adds an additional report tab which display sales report by country. You will find this report available in WooCommerce reports section.
 * [Perfect WooCommerce Brands](https://wordpress.org/plugins/perfect-woocommerce-brands/) -  Perfect WooCommerce Brands allows you to show product brands in your WooCommerce based store.
