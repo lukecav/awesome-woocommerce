@@ -331,6 +331,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [OpenPath for WooCommerce](https://wordpress.org/plugins/openpath-payment-gateway-for-woocommerce/) -   WooCommerce plugin for accepting payment through OpenPath.
 * [Donation Platform for WooCommerce](https://wordpress.org/plugins/wc-donation-platform/) -   Donation Platform for WooCommerce unlocks the power of WooCommerce for your online fundraising & crowdfunding.
 * [Location Picker at Checkout for WooCommerce](https://wordpress.org/plugins/map-location-picker-at-checkout-for-woocommerce/) -   Allow customers to choose their shipping location using a map at checkout.
+* [WooCommerce Auto Delete System Status Logs](https://wordpress.org/plugins/auto-delete-system-status-logs/) -   This plugin deletes WooCommerce status log files automatically after a time period specified by the administrator.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
