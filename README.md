@@ -334,6 +334,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce Auto Delete System Status Logs](https://wordpress.org/plugins/auto-delete-system-status-logs/) -   This plugin deletes WooCommerce status log files automatically after a time period specified by the administrator.
 * [WooCommerce Prune Orders](https://wordpress.org/plugins/woo-prune-orders/) -   Adds a tool to the WooCommerce tools page which puts orders of selected status into the trash where they can be permanently deleted.
 * [CheckoutWC Lite](https://wordpress.org/plugins/checkoutwc-lite/) -   A beautiful, responsive, conversion optimized checkout template for WooCommerce.
+* [BrikPanel](https://wordpress.org/plugins/brikpanel-admin-panel-dashboard-for-woocommerce/) - Free WooCommerce admin dashboard with real-time analytics, bulk editor with variation support, and inventory management.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
