@@ -376,6 +376,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [SearchWP](https://searchwp.com/) - Instantly improve your site search without writing a line of code.
 * [FacetWP](https://facetwp.com/) - Advanced Filtering for WordPress.
 * [Relevanssi](https://wordpress.org/plugins/relevanssi/) - This plugin replaces WordPress search with a relevance-sorting search.
+* [ShopSavvy](https://github.com/shopsavvy/woocommerce-shopsavvy) - WooCommerce extension that displays competitor prices from thousands of retailers alongside your products.
 
 ## Search Helper Plugins
 * [FacetWP - Bookings Integration](https://github.com/FacetWP/facetwp-bookings) - WooCommerce Bookings support.
