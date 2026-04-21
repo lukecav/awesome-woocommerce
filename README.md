@@ -10,6 +10,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Search Helper Plugins](#search-helper-plugins)
 * [Google Analytics](#google-analytics)
 * [Performance](#performance)
+* [Accessibility](#accessibility)
 
 ## Handy Code Snippets and Plugins
 * [Product Reviews and Ratings for WooCommerce](https://wordpress.org/plugins/sparrow/) - Collect product reviews on autopilot and boost conversions & increase organic CTR with star ratings in Google.
@@ -388,3 +389,6 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [WooCommerce with Thousands of Products: Workarounds for Slow Admin Panel](http://www.danielauener.com/woocommerce-with-thousands-of-products-workarounds-for-slow-admin-panel/) - It’s the WordPress plugin for webshops, without a question. For a shop that is not running WooCommerce with thousands of products, it has a very nice performance, too. However there are limitations and drawbacks running WooCommerce with many products.
 * [Disable WooCommerce Bloat](https://wordpress.org/plugins/disable-dashboard-for-woocommerce/) - Disable unnecessary WooCommerce features and make your shop faster and cleaner.
 * [Disable Cart Fragments](https://wordpress.org/plugins/disable-cart-fragments/) - A better way to disable WooCommerce's cart fragments script, and re-enqueue it when the cart is updated. Works with all caching plugins.
+
+## Accessibility
+* [AmazingPlugins WooCommerce Accessibility Fixer](https://github.com/AmazingPlugins/woocommerce-accessibility-fixer) - Auto-fixes WCAG 2.1 AA accessibility issues on WooCommerce stores — alt text, keyboard navigation in product variants, form labels, focus indicators, skip links, and more. Free tier available (10 fixes/month), Pro from $19/mo. Supports EU EAA compliance.
