@@ -3,7 +3,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested plugins should be tested and documented.
-- Suggested plugins should be compatible with the current version of WooCommerce.
+- Suggested plugins should be compatible with the current version of the [WooCommerce](https://wordpress.org/plugins/woocommerce/) plugin.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[ADD-ONS](LINK) - DESCRIPTION.`
 - New categories, or improvements to the existing categorization are welcome.
