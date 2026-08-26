@@ -224,6 +224,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Square Thumbnails](https://wordpress.org/plugins/square-thumbnails/) -  Making Square Thumbnails without cropping the image. 
 * [WooCommerce Manual Payment](https://wordpress.org/plugins/woo-mp/) -  Process payments right from the backend. No need to leave the WooCommerce Edit Order screen. 
 * [WooCommerce Invoicing Payments w/ Sprout Invoices](https://wordpress.org/plugins/woo-invoicing-payments-w-sprout-invoices/) -  A Sprout Invoices payment integration with WooCommerce checkout.
+* [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice and receipt PDF generator, no account. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-woocommerce-v1): white-label PDFs, 6 templates, CSV batch CLI for WooCommerce store owners.
 * [Quantities and Units for WooCommerce](https://wordpress.org/plugins/quantities-and-units-for-woocommerce/) -  Easily require your customers to buy a minimum / maximum / incremental amount of products to continue with their checkout.
 * [Order Hours Scheduler for WooCommerce](https://wordpress.org/plugins/order-hours-scheduler-for-woocommerce/) -  Create Custom Schedules to Automatically Enable & Disable WooCommerce Customer Checkout Functionality.
 * [SEON – Fraud Prevention](https://wordpress.org/plugins/seon-fraud/) -  SEON API Fraud.
