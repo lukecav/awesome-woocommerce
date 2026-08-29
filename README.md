@@ -50,6 +50,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Metorik Helper](https://wordpress.org/plugins/metorik-helper/) - Provides some fixes & extensions for WooCommerce, required by Metorik.
 * [WooCommerce Calculate Shipping In Product Page](https://wordpress.org/plugins/woo-calculate-shipping-in-product-page/) - Calculate shipping before adding the product to the cart with avaialable shipping methods.
 * [WooCommerce Product Bundles - Min/Max Items](https://github.com/somewherewarm/woocommerce-product-bundles-min-max-items) - WooCommerce Product Bundles plugin that allows you to define min/max bundled item count constraints.
+* [Advanced Bundles for WooCommerce](https://github.com/we-wp/advanced-bundles-for-woocommerce) - Free, open-source fixed product bundles with component pricing, stock, tax, shipping, and order lines.
 * [PW WooCommerce Bulk Edit](https://wordpress.org/plugins/pw-bulk-edit/) - PW WooCommerce Bulk Edit is a powerful way to update your WooCommerce product catalog. Finally, no more tedious clicking through countless pages making the same change to all products.
 * [WooCommerce variations Select2](https://wordpress.org/plugins/woo-variations-select2/) - A simple plugin that enables Select2 for WooCommerce variations select boxes.
 * [WooCommerce Order Cancel for Customers](https://wordpress.org/plugins/woo-order-cancel-for-customers/) - A tiny plugin that will enable customers to cancel woocommerce order within a certain amount of time.
