@@ -293,6 +293,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Checkout Manager for WooCommerce](https://wordpress.org/plugins/woocommerce-checkout-manager/) -   Manages WooCommerce Checkout, the advanced way.
 * [Woo Custom Stock Status](https://wordpress.org/plugins/woo-custom-stock-status/) -   Write the custom stock status with different colors for each woocommerce product, to show in product details and listing pages.
 * [Product image Lazy Loader for WooCommerce](https://wordpress.org/plugins/wc-products-lazy-loader/) -   This plugin lazy loads your WooCommerce product images on the shop and archive pages.
+* [Merchlint – Store Audit for WooCommerce](https://wordpress.org/plugins/merchlint/) - Read-only catalogue audit that finds products which sold and can no longer be bought, duplicate SKUs, expired sales still running and products published without a price, with findings ranked by twelve-month revenue from the store's own order data. Writes nothing to the database and exposes every check over WP-CLI.
 
 ## Action Scheduler
 * [Action Scheduler Timeout Monitor](https://github.com/Prospress/action-scheduler-timeout-monitor/) -  Gather additional information about subscription action scheduled events which timeout.
