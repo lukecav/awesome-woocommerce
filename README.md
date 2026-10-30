@@ -12,6 +12,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Performance](#performance)
 
 ## Handy Code Snippets and Plugins
+* [CitedCart](https://citedcart.com/?utm_source=awesome_woocommerce&utm_medium=github&utm_campaign=free_start_us&utm_content=readme) - Free diagnostic checker to audit WooCommerce product structured data (JSON-LD), shipping terms, and AI shopping visibility.
 * [Product Reviews and Ratings for WooCommerce](https://wordpress.org/plugins/sparrow/) - Collect product reviews on autopilot and boost conversions & increase organic CTR with star ratings in Google.
 * [WC Map Guest Orders and Downloads](https://wordpress.org/plugins/wc-map-guest-orders-and-downloads/) - Maps WooCommerce guest orders and downloads to an account with the same e-mail on account creation or login.
 * [Quantity Before Add to Cart and Product Update](https://gist.github.com/lukecav/b31f856daaa8c726ea24472b5792166b) - Quantity Before Add to Cart and Product Update.
