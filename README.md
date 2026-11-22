@@ -329,6 +329,7 @@ Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 * [Installment Plans for WooCommerce Subscriptions](https://github.com/stellarwp/installment-plans-for-woo-subs) -   Extend the Subscriptions plugin for WooCommerce to handle installments.
 * [Checkout Field Customizer](https://wordpress.org/plugins/checkout-field-customizer/) -   Customize your checkout fields easily.
 * [OpenPath for WooCommerce](https://wordpress.org/plugins/openpath-payment-gateway-for-woocommerce/) -   WooCommerce plugin for accepting payment through OpenPath.
+* [Blokbay Crypto Gateway](https://github.com/blokbay/woocommerce-crypto-payments) - Accept Bitcoin, USDT, USDC and ETH, paid straight to your own wallet (non-custodial).
 * [Donation Platform for WooCommerce](https://wordpress.org/plugins/wc-donation-platform/) -   Donation Platform for WooCommerce unlocks the power of WooCommerce for your online fundraising & crowdfunding.
 * [Location Picker at Checkout for WooCommerce](https://wordpress.org/plugins/map-location-picker-at-checkout-for-woocommerce/) -   Allow customers to choose their shipping location using a map at checkout.
 * [WooCommerce Auto Delete System Status Logs](https://wordpress.org/plugins/auto-delete-system-status-logs/) -   This plugin deletes WooCommerce status log files automatically after a time period specified by the administrator.
